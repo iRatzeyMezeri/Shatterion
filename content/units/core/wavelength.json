@@ -17,7 +17,7 @@
       "top": true,
       "shootY": 3,
       "shootX": -2.5,
-      "reload": 3,
+      "reload": 15,
       "inaccuracy": 12,
       "mirror": true,
       "shootSound": "pew",
@@ -55,7 +55,7 @@
           "colorFrom": "e9c8b3",
           "colorTo": "e9c8b3"
         },
-        "lifetime": 8,
+        "lifetime": 48,
         "lightColor": "e9c8b3",
         "colorFrom": "e9c8b3",
         "colorTo": "e9c8b3"
