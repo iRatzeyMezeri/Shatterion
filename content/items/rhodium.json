@@ -1,0 +1,14 @@
+{
+  "hardness": 1,
+  "cost": 2,
+  "type": "material",
+  "name": "Rhodium",
+  "description": "A simple material used in defense-related content"
+  "color": "565f71",
+  "research": {
+    "parent": "palladium",
+    "requirements": [
+      "rhodium/1"
+    ]
+  }
+}
