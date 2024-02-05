@@ -1,0 +1,65 @@
+{
+  "name": "Wavelength",
+  "description": "A little spider core unit",
+  "type": "legs",
+  "outlineColor": "00000000",
+  "flying": false,
+  "speed": 1,
+  "hitSize": 8,
+  "health": 260,
+  "mineSpeed": 2,
+  "buildSpeed": 2,
+  "mineTier": 1,
+  "itemCapacity": 50,
+  "weapons": [
+    {
+      "name": "wavelength-weapon",
+      "top": true,
+      "shootY": 3,
+      "shootX": -2.5,
+      "reload": 3,
+      "inaccuracy": 12,
+      "mirror": true,
+      "shootSound": "pew",
+      "bullet": {
+        "type": "basicBulletType",
+        "damage": 20,
+        "buildingDamageMultiplier": 0.2,
+        "pierce": false,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "particles": 1,
+          "length": 8,
+          "lifetime": 20,
+          "lightColor": "e9c8b3",
+          "colorFrom": "e9c8b3",
+          "colorTo": "d39167",
+          "sizeFrom": 2,
+          "sizeTo": 0.5
+        },
+        "speed": 6,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 1,
+        "height": 1,
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "line": true,
+          "particles": 3,
+          "lifetime": 15,
+          "length": 20,
+          "cone": -360,
+          "lenFrom": 4,
+          "lenTo": 0,
+          "colorFrom": "e9c8b3",
+          "colorTo": "e9c8b3"
+        },
+        "lifetime": 8,
+        "lightColor": "e9c8b3",
+        "colorFrom": "e9c8b3",
+        "colorTo": "e9c8b3"
+      }
+    }
+  ]
+}
