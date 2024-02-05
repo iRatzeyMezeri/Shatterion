@@ -1,0 +1,16 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Particle",
+  "description": "A small core with a basic unit",
+  "health": 1400,
+  "size": 2,
+  "itemCapacity": 3000,
+  "unitCapModifier": 8,
+  "unitType": "wavelength",
+  "category": "effect",
+  "research": {
+    "root": true,
+    "name": "[#97a9b9]Aurius",
+    "requiresUnlock": false
+  }
+}
