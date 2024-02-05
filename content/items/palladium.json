@@ -1,0 +1,14 @@
+{
+  "hardness": 1,
+  "cost": 2,
+  "type": "material",
+  "name": "Palladium",
+  "description": "A simple material used in electricity-related content"
+  "color": "d39167",
+  "research": {
+    "parent": "core-particle",
+    "requirements": [
+      "palladium/1"
+    ]
+  }
+}
