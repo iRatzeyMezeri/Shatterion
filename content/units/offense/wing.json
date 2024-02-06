@@ -1,0 +1,52 @@
+{
+  "name": "Wing",
+  "description": "A little unit capable of causing non-little burns",
+  "hitSize": 8,
+  "speed": 1.4,
+  "accel": 0.1,
+  "drag": 0.1,
+  "outlineColor": "00000000",
+  "lowAltitude": true,
+  "flying": true,
+  "health": 220,
+  "engineOffset": 2,
+  "range": 40,
+  "engineColor": "d0e1f0",
+  "circleTarget": false,
+  "weapons": [
+    {
+      "name": "wing-flamethrower",
+      "mirror": false,
+      "top": true,
+      "x": 3,
+      "y": 0,
+      "shootSound": "torch",
+      "reload": 2,
+      "bullet": {
+        "type": "basicBulletType",
+        "damage": 20,
+        "pierce": true,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "particles": 1,
+          "length": 1,
+          "lifetime": 20,
+          "lightColor": "d0e1f0",
+          "colorFrom": "d0e1f0",
+          "colorTo": "97a9b9",
+          "sizeFrom": 2,
+          "sizeTo": 1
+        },
+        "speed": 5,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 1,
+        "height": 1,
+        "lifetime": 16,
+        "lightColor": "d0e1f0",
+        "colorFrom": "d0e1f0",
+        "colorTo": "97a9b9",
+      }
+    }
+  ]
+}
