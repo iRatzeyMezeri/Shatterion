@@ -16,9 +16,9 @@
   "weapons": [
     {
       "name": "wing-flamethrower",
-      "mirror": false,
+      "mirror": true,
       "top": true,
-      "x": 3,
+      "x": -4,
       "y": 0,
       "shootSound": "torch",
       "reload": 2,
