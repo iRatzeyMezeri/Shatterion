@@ -7,7 +7,7 @@ mesh: {
   divisions: 4
   color1: d8e3f7
   color2: 27242e
-  radius: 0.8
+  radius: 2
   octaves: 2
   persistence: 0.7
   scale: 1
@@ -56,9 +56,9 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 1
+sectorSize: 0.6
 orbitSpacing: 13
-radius: 1
+radius: 2
 minZoom: 0.5
 drawOrbit: true
 atmosphereRadIn: 0
