@@ -4,7 +4,7 @@ localizedName: Aurius
 mesh: {
   type: NoiseMesh
   seed: 34
-  divisions: 6
+  divisions: 5
   color1: d8e3f7
   color2: 27242e
   radius: 4.7
