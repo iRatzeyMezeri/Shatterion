@@ -1,0 +1,14 @@
+{
+  "name": "Metallic Drill",
+  "description": "A simple 2x2 drill",
+  "type": "Drill",
+  "size": 2,
+  "tier": 2,
+  "drillTime": 240,
+  "requirements": [
+     "rhodium/10",
+     "palladium/5"
+  ],
+  "category": "production",
+  "research": "core-particle"
+}
