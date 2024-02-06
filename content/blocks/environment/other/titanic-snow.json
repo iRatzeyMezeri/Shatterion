@@ -1,0 +1,6 @@
+{
+  "name": "Titanic Snow",
+  "type": "Floor",
+  "variants": 2,
+  "wall": "titanic-snow-wall"
+}
