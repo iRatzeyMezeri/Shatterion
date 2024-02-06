@@ -1,0 +1,83 @@
+# permanently borrowed from json example planet
+localizedName: Aurius
+
+mesh: {
+  type: NoiseMesh
+  seed: 34
+  divisions: 4
+  color1: d8e3f7
+  color2: 27242e
+  radius: 0.8
+  octaves: 2
+  persistence: 0.7
+  scale: 1
+  mag: 1.5
+}
+
+cloudMesh: {
+  type: HexSkyMesh
+  seed: 48
+  speed: 0.8
+  radius: 0.05
+  divisions: 4
+  color: 4662e87e
+  octaves: 2
+  persistence: 0.7
+  scl: 1
+  thresh: 0.5
+}
+
+generator: {
+  # Mininum amount of asteroids.
+  min: 1
+  # Maximum amount of asteroids.
+  max: 1
+
+  # Noise properties.
+  octaves: 2
+  persistence: 0.4
+  scale: 30
+  mag: 0.4
+  thresh: 1
+  foct: 3
+  fmag: 0.5
+  fscl: 50
+  fper: 0.6
+
+  radMin: 600
+  radMax: 600
+
+  stoneChance: 0
+
+  iceChance: 1
+  carbonChance: 0
+  berylChance: 0.2
+  ferricChance: 0.2
+}
+
+alwaysUnlocked: true
+sectorSize: 1
+orbitSpacing: 13
+radius: 1
+minZoom: 0.5
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+accessible: true
+updateLighting: true
+sectorSeed: 464
+bloom: false
+visible: true
+atmosphereColor: aaaaaaaa
+iconColor: d8e3f7
+hasAtmosphere: false
+allowWaveSimulation: true
+allowLaunchToNumbered: false
+clearSectorOnLose: true
+allowWaves: true
+icon: planet
+defaultCore: core-particle
+parent: sun
+solarSystem: sun
+launchCandidates: []
+hiddenItems: []
