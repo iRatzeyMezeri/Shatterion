@@ -1,0 +1,12 @@
+{
+  "name": "Large Rhodium Metal Wall",
+  "description": "A larger version of the rhodium metal wall",
+  "type": "Wall",
+  "health": 1440,
+  "size": 2,
+  "requirements": [
+    "rhodium/32"
+  ],
+  "category": "defense",
+  "research": "rhodium-metal-wall"
+}
