@@ -1,0 +1,12 @@
+{
+  "name": "Rhodium Metal Wall",
+  "description": "A basic defensive wall made out of rhodium",
+  "type": "Wall",
+  "health": 360,
+  "size": 1,
+  "requirements": [
+    "rhodium/8"
+  ],
+  "category": "defense",
+  "research": "core-particle"
+}
