@@ -1,0 +1,12 @@
+{
+  "name": "Starpoint Wall",
+  "description": "A resistant wall for emergency situations",
+  "type": "Wall",
+  "health": 1400,
+  "size": 1,
+  "requirements": [
+    "starpoint/120"
+  ],
+  "category": "defense",
+  "research": "starpoint"
+}
