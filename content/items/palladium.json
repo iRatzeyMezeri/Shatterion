@@ -7,8 +7,6 @@
   "color": "d39167",
   "research": {
     "parent": "core-particle",
-    "requirements": [
-      "palladium/1"
-    ]
+    "requiresUnlock": false
   }
 }
