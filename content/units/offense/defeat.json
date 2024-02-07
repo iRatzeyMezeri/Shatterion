@@ -19,7 +19,7 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "circle",
-        "damage": 40,
+        "damage": 80,
         "pierceBuilding": false,
         "pierce": false,
         "trailChance": 1,
