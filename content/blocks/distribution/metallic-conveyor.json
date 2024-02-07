@@ -1,0 +1,12 @@
+"name": "Metallic Conveyor"
+"type": "Conveyor",
+"description": "a simple slow conveyor."
+"health": 80,
+"itemCapacity": 3,
+"speed" 25,
+"requirements": [
+  "palladium/1",
+  "rhodium/1"
+]
+"category": "distribution",
+"research": "core-particle"
