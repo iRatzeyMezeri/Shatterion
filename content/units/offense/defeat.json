@@ -1,6 +1,6 @@
 {
   "name": "Defeat",
-  "description": "A simple ground offense unit with a chance to cast defeat upon your enemies",
+  "description": "A simple ground offense unit with a chance to defeat your enemies",
   "type": "mech",
   "outlineColor": "00000000",
   "flying": false,
