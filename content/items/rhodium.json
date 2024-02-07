@@ -5,8 +5,5 @@
   "name": "Rhodium",
   "description": "A simple material used in defense-related content"
   "color": "565f71",
-  "research": {
-    "parent": "palladium",
-    "requiresUnlock": false
-  }
+  "requirements": core-particle,
 }
