@@ -7,8 +7,6 @@
   "color": "565f71",
   "research": {
     "parent": "palladium",
-    "requirements": [
-      "rhodium/1"
-    ]
+    "requiresUnlock": false
   }
 }
