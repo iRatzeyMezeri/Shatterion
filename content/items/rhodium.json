@@ -5,5 +5,5 @@
   "name": "Rhodium",
   "description": "A simple material used in defense-related content"
   "color": "565f71",
-  "requirements": core-particle,
+  "requirements": "core-particle",
 }
