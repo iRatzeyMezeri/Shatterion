@@ -22,11 +22,23 @@
         "sprite": "circle",
         "damage": 30,
         "pierce": true,
-        "speed": 12,
+        "speed": 1,
         "shrinkY": 0,
         "shrinkX": 0,
         "width": 1,
         "height": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 5,
+          "sizeTo": 5,
+          "lightColor": "dbffe388",
+          "colorFrom": "dbffe388",
+          "colorTo": "4c5dc233"
+        },
         "shootEffect": {
           "type": "ParticleEffect",
           "sprite": "circle",
@@ -35,14 +47,14 @@
           "length": 5,
           "sizeFrom": 5,
           "sizeTo": 5,
-          "lightColor": "dbffe3",
-          "colorFrom": "dbffe3",
-          "colorTo": "4c5dc2"
+          "lightColor": "dbffe388",
+          "colorFrom": "dbffe388",
+          "colorTo": "4c5dc233"
         },
         "lifetime": 15,
-        "lightColor": "dbffe3",
-        "colorFrom": "dbffe3",
-        "colorTo": "4c5dc2"
+        "lightColor": "dbffe388",
+        "colorFrom": "dbffe388",
+        "colorTo": "4c5dc233"
       }
     }
   ]
