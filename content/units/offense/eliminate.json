@@ -20,8 +20,8 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "circle",
-        "damage": 40,
-        "splashDamage": 220,
+        "damage": 120,
+        "splashDamage": 660,
         "splashDamageRadius": 25
         "pierceBuilding": false,
         "pierce": false,
@@ -55,16 +55,16 @@
             {
               "type": "ParticleEffect",
               "line": true,
-              "speed": 2,
+              "speed": 4,
               "particles": 12,
-              "length": 10,
+              "length": 5,
               "lifetime": 20,
               "cone": -360,
               "lightColor": "d0e1f0",
               "colorFrom": "d0e1f0",
               "colorTo": "97a9b9",
-              "lenFrom": 10,
-              "lenTo": 7
+              "lenFrom": 5,
+              "lenTo": 2
               },
           ]
         },
