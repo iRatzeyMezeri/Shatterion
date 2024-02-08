@@ -4,15 +4,15 @@
   "type": "mech",
   "outlineColor": "00000000",
   "flying": false,
-  "speed": 0.4,
+  "speed": 0.5,
   "hitSize": 12,
   "health": 480,
   "weapons": [
     {
-      "name": "eliminate-gun",
+      "name": "eleminate-gun",
       "top": false,
       "y": 0,
-      "reload": 80,
+      "reload": 240,
       "x": 6,
       "mirror": true,
       "alternate": true,
@@ -35,6 +35,64 @@
           "colorTo": "97a9b9",
           "sizeFrom": 3,
           "sizeTo": 2
+        },
+        "hitEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 20,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "particles": 12,
+              "length": 20,
+              "lifetime": 40,
+              "cone": -360,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+              "lenFrom": 20,
+              "lenTo": 15
+              },
+          ]
+        },
+        "despawnEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 20,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "particles": 12,
+              "length": 20,
+              "lifetime": 40,
+              "cone": -360,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+              "lenFrom": 20,
+              "lenTo": 15
+              },
+          ]
         },
         "speed": 1,
         "shrinkY": -10,
