@@ -35,9 +35,9 @@
           "length": 5,
           "sizeFrom": 5,
           "sizeTo": 5,
-          "lightColor": "dbffe388",
-          "colorFrom": "dbffe388",
-          "colorTo": "4c5dc233"
+          "lightColor": "dbffe3",
+          "colorFrom": "dbffe3",
+          "colorTo": "4c5dc2"
         },
         "shootEffect": {
           "type": "ParticleEffect",
@@ -47,11 +47,11 @@
           "length": 5,
           "sizeFrom": 5,
           "sizeTo": 5,
-          "lightColor": "dbffe388",
-          "colorFrom": "dbffe388",
-          "colorTo": "4c5dc233"
+          "lightColor": "dbffe3",
+          "colorFrom": "dbffe3",
+          "colorTo": "4c5dc2"
         },
-        "lifetime": 15,
+        "lifetime": 30,
         "lightColor": "dbffe388",
         "colorFrom": "dbffe388",
         "colorTo": "4c5dc233"
