@@ -35,7 +35,19 @@
           "lifetime": 15,
           "length": 5,
           "sizeFrom": 5,
-          "sizeTo": 5,
+          "sizeTo": 3,
+          "lightColor": "dbffe3",
+          "colorFrom": "dbffe3",
+          "colorTo": "4c5dc2"
+        },
+        "despawnEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 2,
+          "sizeTo": 0,
           "lightColor": "dbffe3",
           "colorFrom": "dbffe3",
           "colorTo": "4c5dc2"
@@ -53,6 +65,8 @@
           "colorTo": "4c5dc2"
         },
         "lifetime": 30,
+        "shrinkX": 2,
+        "shrinkY": 2,
         "lightColor": "dbffe3",
         "colorFrom": "dbffe3",
         "colorTo": "4c5dc2"
