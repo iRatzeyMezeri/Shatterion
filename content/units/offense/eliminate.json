@@ -4,7 +4,7 @@
   "type": "mech",
   "outlineColor": "00000000",
   "flying": false,
-  "speed": 0.2,
+  "speed": 0.4,
   "hitSize": 12,
   "health": 480,
   "weapons": [
@@ -37,11 +37,11 @@
           "sizeTo": 2
         },
         "speed": 1,
-        "shrinkY": -2,
-        "shrinkX": -2,
+        "shrinkY": -10,
+        "shrinkX": -10,
         "width": 3,
         "height": 3,
-        "lifetime": 40,
+        "lifetime": 400,
         "lightColor": "d0e1f0",
         "colorFrom": "d0e1f0",
         "colorTo": "97a9b9",
