@@ -27,6 +27,7 @@
         "shrinkX": 0,
         "width": 1,
         "height": 1,
+        "trailChance": 1,
         "trailEffect": {
           "type": "ParticleEffect",
           "sprite": "circle",
@@ -52,9 +53,9 @@
           "colorTo": "4c5dc2"
         },
         "lifetime": 30,
-        "lightColor": "dbffe388",
-        "colorFrom": "dbffe388",
-        "colorTo": "4c5dc233"
+        "lightColor": "dbffe3",
+        "colorFrom": "dbffe3",
+        "colorTo": "4c5dc2"
       }
     }
   ]
