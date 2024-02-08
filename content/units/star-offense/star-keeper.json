@@ -34,10 +34,10 @@
           "particles": 1,
           "lifetime": 15,
           "length": 5,
-          "sizeFrom": 5,
-          "sizeTo": 3,
-          "lightColor": "dbffe3",
-          "colorFrom": "dbffe3",
+          "sizeFrom": 3,
+          "sizeTo": 1,
+          "lightColor": "6cc7eb",
+          "colorFrom": "6cc7eb",
           "colorTo": "4c5dc2"
         },
         "despawnEffect": {
@@ -46,10 +46,10 @@
           "particles": 1,
           "lifetime": 15,
           "length": 5,
-          "sizeFrom": 2,
+          "sizeFrom": 1,
           "sizeTo": 0,
-          "lightColor": "dbffe3",
-          "colorFrom": "dbffe3",
+          "lightColor": "4c8aed",
+          "colorFrom": "4c8aed",
           "colorTo": "4c5dc2"
         },
         "shootEffect": {
@@ -58,8 +58,8 @@
           "particles": 1,
           "lifetime": 15,
           "length": 5,
-          "sizeFrom": 5,
-          "sizeTo": 5,
+          "sizeFrom": 3,
+          "sizeTo": 3,
           "lightColor": "dbffe3",
           "colorFrom": "dbffe3",
           "colorTo": "4c5dc2"
