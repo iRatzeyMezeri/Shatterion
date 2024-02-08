@@ -1,0 +1,51 @@
+{
+  "name": "Eliminate",
+  "description": "A simple offense ground unit with 2 strong cannons",
+  "type": "mech",
+  "outlineColor": "00000000",
+  "flying": false,
+  "speed": 0.2,
+  "hitSize": 12,
+  "health": 480,
+  "weapons": [
+    {
+      "name": "eliminate-gun",
+      "top": false,
+      "y": 0,
+      "reload": 80,
+      "x": 6,
+      "mirror": true,
+      "alternate": true,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "basicBulletType",
+        "sprite": "circle",
+        "damage": 240,
+        "pierceBuilding": false,
+        "pierce": false,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "particles": 1,
+          "length": 4,
+          "lifetime": 20,
+          "region": "circle",
+          "lightColor": "d0e1f0",
+          "colorFrom": "d0e1f0",
+          "colorTo": "97a9b9",
+          "sizeFrom": 3,
+          "sizeTo": 2
+        },
+        "speed": 1,
+        "shrinkY": -2,
+        "shrinkX": -2,
+        "width": 3,
+        "height": 3,
+        "lifetime": 40,
+        "lightColor": "d0e1f0",
+        "colorFrom": "d0e1f0",
+        "colorTo": "97a9b9",
+      }
+    }
+  ]
+}
