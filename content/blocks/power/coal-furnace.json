@@ -1,0 +1,24 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Coal Furnace",
+  "description": "Burns coal to get power",
+  "health": 140,
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "powerProduction": 1,
+  "heatOutput": 1,
+  "updateEffect": "smeltSmoke",
+  "drawer": {
+    "type": "DrawDefault"
+  },
+  "consumes": {
+    "item": "s-coal"
+    }
+  "requirements": [
+    "rhodium/30",
+    "palladium/30"
+  ],
+  "category": "power",
+  "research": "core-particle"
+}
