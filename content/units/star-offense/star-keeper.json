@@ -2,7 +2,7 @@
   "name": "Star Keeper",
   "description": "A basic Starpoint class spider unit with 2 flamethrowers",
   "type": "legs",
-  "legCount": "8",
+  "legCount": "6",
   "outlineColor": "00000000",
   "flying": false,
   "speed": 0.5,
