@@ -1,0 +1,9 @@
+{
+  "hardness": 2,
+  "cost": 2,
+  "type": "material",
+  "name": "Coal",
+  "description": "A simple burnable rock"
+  "color": "221e1e",
+  "requiremenets": "palladium"
+}
