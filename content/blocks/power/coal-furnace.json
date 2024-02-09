@@ -7,7 +7,7 @@
   "hasPower": true,
   "hasItems": true,
   "powerProduction": 1,
-  "heatOutput": 1,
+  "itemCapacity": 5,
   "updateEffect": "smeltSmoke",
   "drawer": {
     "type": "DrawDefault"
