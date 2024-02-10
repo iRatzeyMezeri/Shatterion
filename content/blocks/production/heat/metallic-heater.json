@@ -12,7 +12,9 @@
   "ambientSound": "hum",
   "itemCapacity": "5",
   "consumes": {
-    "item": "s-coal/1"
+    "items": [
+      "s-coal/1"
+    ]
   },
   "category": "crafting",
   "craftTime": "60",
