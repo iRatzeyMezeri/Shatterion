@@ -10,7 +10,15 @@
   "itemCapacity": 5,
   "updateEffect": "smeltSmoke",
   "drawer": {
-    "type": "DrawDefault"
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
   },
   "consumes": {
     "item": "s-coal"
