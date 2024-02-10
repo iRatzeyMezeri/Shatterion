@@ -1,0 +1,19 @@
+{
+  "name": "Coal Heater",
+  "description": "Combusts coal to gain heat",
+  "type": "HeatProducer",
+  "requirements": [
+    "rhodium/50",
+    "palladium/30"
+  ],
+  "size": 2,
+  "heatOutput": 1,
+  "regionRotated1": 1,
+  "ambientSound": "hum",
+  "itemCapacity": "5",
+  "consumes": {
+    "item": "s-coal/1"
+  },
+  "category": "crafting",
+  "craftTime": "60",
+}
