@@ -1,0 +1,14 @@
+{
+  "name": "Metallic Bridge"
+  "type": "DirectionBridge",
+  "description": "a basic bridge, you wont need more complicated than that"
+  "health": 200,
+  "itemCapacity": 3,
+  "speed": 10,
+  "requirements": [
+    "palladium/4",
+    "rhodium/4"
+  ]
+  "category": "distribution",
+  "research": "metallic-router"
+}
