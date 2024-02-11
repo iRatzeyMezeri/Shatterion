@@ -1,6 +1,7 @@
 {
   "name": "Metallic Junction",
   "description": "A simple junction, you wont need more complicated than that",
+  "health": 120,
   "type": "junction",
   "requirements": [
     "rhodium/2",
