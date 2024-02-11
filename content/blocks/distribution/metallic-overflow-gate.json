@@ -1,5 +1,5 @@
 {
-  "type": "OverflowGate",
+  "type": "OverflowDuct",
   "name": "Metallic Overflow Gate",
   "description": "outputs items to the sides once the front path is blocked, you wont need more complicated than that",
   "size": 1,
