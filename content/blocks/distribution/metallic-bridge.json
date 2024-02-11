@@ -1,9 +1,10 @@
 {
   "name": "Metallic Bridge"
-  "type": "ItemBridge",
+  "type": "DirectionBridge",
+  "acceptsItems": true,
   "description": "a basic bridge, you wont need more complicated than that"
   "health": 200,
-  "capacity": 3,
+  "itemCapacity": 3,
   "speed": 10,
   "requirements": [
     "palladium/4",
