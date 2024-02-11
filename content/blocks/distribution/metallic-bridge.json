@@ -1,7 +1,7 @@
 {
   "name": "Metallic Bridge"
   "type": "DirectionBridge",
-  "acceptsItems": true,
+  "hasItems": true,
   "description": "a basic bridge, you wont need more complicated than that"
   "health": 200,
   "itemCapacity": 3,
