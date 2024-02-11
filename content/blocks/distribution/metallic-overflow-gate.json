@@ -1,0 +1,15 @@
+{
+  "type": "OverflowGate",
+  "name": "Metallic Overflow Gate",
+  "description": "outputs items to the sides once the front path is blocked, you wont need more complicated than that",
+  "size": 1,
+  "health": 160,
+  "itemCapacity": 3,
+  "speed": 10,
+  "requirements": [
+      "rhodium/3",
+      "palladium/3"
+  ],
+  "category": "distribution",
+  "research": "metallic-router"
+}
