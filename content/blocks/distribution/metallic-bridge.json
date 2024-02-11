@@ -1,6 +1,6 @@
 {
   "name": "Metallic Bridge"
-  "type": "DirectionBridge",
+  "type": "DuctBridge",
   "acceptsItems": true,
   "hasItems": true,
   "description": "a basic bridge, you wont need more complicated than that"
