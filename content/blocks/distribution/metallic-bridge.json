@@ -3,7 +3,7 @@
   "type": "DirectionBridge",
   "description": "a basic bridge, you wont need more complicated than that"
   "health": 200,
-  "itemCapacity": 3,
+  "capacity": 3,
   "speed": 10,
   "requirements": [
     "palladium/4",
