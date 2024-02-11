@@ -6,7 +6,8 @@
     "rhodium/2",
     "palladium/2"
   ],
+  "capacity": 3,
   "category": "distribution",
-  "speed": 1,
+  "speed": 20,
   "research": "metallic-conveyor"
 }
