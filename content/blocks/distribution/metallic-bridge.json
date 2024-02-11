@@ -9,6 +9,7 @@
     "palladium/4",
     "rhodium/4"
   ]
+  "range": 4,
   "category": "distribution",
   "research": "metallic-router"
 }
