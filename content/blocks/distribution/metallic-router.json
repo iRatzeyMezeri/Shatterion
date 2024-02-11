@@ -1,0 +1,14 @@
+{
+  "type": "DuctRouter",
+  "name": "Metallic Router",
+  "description": "A simple directional router, you wont need more complicated than that",
+  "size": 1,
+  "health": 160,
+  "itemCapacity": 3,
+  "speed": 20,
+  "requirements": [
+      "rhodium/3",
+      "palladium/3"
+  ],
+  "category": "distribution"
+}
