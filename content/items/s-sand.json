@@ -1,0 +1,9 @@
+{
+  "hardness": 0.5,
+  "cost": 2,
+  "type": "material",
+  "name": "Sand",
+  "description": "A simple dust mostly used to obtain silicon"
+  "color": "363241",
+  "requiremenets": "s-sand"
+}
