@@ -1,0 +1,15 @@
+{
+  "type": "DuctUnloader",
+  "name": "Metallic Unloader",
+  "description": "A simple directional unloader, you wont need more complicated than that",
+  "size": 1,
+  "health": 240,
+  "itemCapacity": 3,
+  "speed": 10,
+  "requirements": [
+      "rhodium/5",
+      "palladium/5"
+  ],
+  "category": "distribution",
+  "research": "metallic-overflow-gate"
+}
