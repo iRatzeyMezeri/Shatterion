@@ -1,6 +1,7 @@
 {
-  "name": "Coal Ore",
-  "type": "OreBlock",
+  "name": "Rhodic Sand",
+  "type": "Floor",
   "itemDrop": "s-sand",
   "variants": 2,
+  "wall": "rhodic-sand-wall"
 }
