@@ -16,6 +16,7 @@
       "s-coal/1"
     ]
   },
+  "research": "coal-furnace",
   "category": "crafting",
   "craftTime": "60",
 }
