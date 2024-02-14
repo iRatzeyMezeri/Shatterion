@@ -8,7 +8,8 @@
   "speed": 10,
   "requirements": [
       "rhodium/5",
-      "palladium/5"
+      "palladium/5",
+      "s-silicon/5"
   ],
   "category": "distribution",
   "research": "metallic-overflow-gate"
