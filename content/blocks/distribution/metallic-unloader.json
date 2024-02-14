@@ -1,5 +1,5 @@
 {
-  "type": "DuctUnloader",
+  "type": "DirectionalUnloader",
   "name": "Metallic Unloader",
   "description": "A simple directional unloader, you wont need more complicated than that",
   "size": 1,
