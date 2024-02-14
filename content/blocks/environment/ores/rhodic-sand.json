@@ -1,0 +1,6 @@
+{
+  "name": "Coal Ore",
+  "type": "OreBlock",
+  "itemDrop": "s-sand",
+  "variants": 2,
+}
