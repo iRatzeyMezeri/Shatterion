@@ -18,6 +18,7 @@
       "shootSound": "sap",
       "bullet": {
         "type": "basicBulletType",
+        "sprite": "circle",
         "damage": 80,
         "pierceBuilding": false,
         "pierce": false,
@@ -27,8 +28,8 @@
         "speed": 4,
         "shrinkY": 0,
         "shrinkX": 0,
-        "width": 2,
-        "height": 2,
+        "width": 3,
+        "height": 3,
         "lifetime": 40,
         "lightColor": "d0e1f0",
         "colorFrom": "d0e1f0",
