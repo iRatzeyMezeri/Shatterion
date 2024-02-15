@@ -21,6 +21,9 @@
           {
             "type": "DrawHeatRegion",
             "suffix": "-top"
+          },
+          {
+            "type": "DrawCrucibleFlame",
           }
         ]
     },
