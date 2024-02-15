@@ -4,8 +4,6 @@
   "description": "A standart beam node that distributes power",
   "size": 1,
   "laserRange": 8,
-  "laserColor1": "fff0f0",
-  "laserColor2": "ec9999",
   "requirements": [
     "palladium/2"
   ],
