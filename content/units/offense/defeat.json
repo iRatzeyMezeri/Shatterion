@@ -18,7 +18,6 @@
       "shootSound": "sap",
       "bullet": {
         "type": "basicBulletType",
-        "sprite": "circle",
         "damage": 80,
         "pierceBuilding": false,
         "pierce": false,
