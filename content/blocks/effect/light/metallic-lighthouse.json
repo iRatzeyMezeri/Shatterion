@@ -1,0 +1,14 @@
+{
+  "name": "Metallic Lighthouse",
+  "description": "A basic lighthouse incase it gets too dark",
+  "type": "LightBlock",
+  "radius": 20,
+  "health": 540,
+  "size": 1,
+  "requirements": [
+    "rhodium/16",
+    "palladium/4"
+  ],
+  "category": "effect",
+  "research": "core-particle"
+}
