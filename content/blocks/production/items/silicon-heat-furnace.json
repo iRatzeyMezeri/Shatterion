@@ -1,0 +1,24 @@
+{
+    "name": "Silicon Heat Furnace",
+    "description": "Heats up sand to create pure silicon",
+    "type": "HeatCrafter",
+    "outputItem": {"item": "s-silicon", "amount": 2},
+    "consumes": {
+        "power": 2.4,
+        "items": [
+          "s-sand/3"
+        ]
+    },
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 20,
+    "craftTime": 20,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "metallic-drill"
+    "requirements": [
+      "rhodium/180",
+      "palladium/60",
+    ],
+}
