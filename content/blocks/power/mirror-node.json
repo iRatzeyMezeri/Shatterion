@@ -3,7 +3,7 @@
   "name": "Mirror Node",
   "description": "A standart beam node that distributes power",
   "size": 1,
-  "laserRange": 40,
+  "range": 10,
   "hasPower": true,
   "powerCapacity": 10,
   "requirements": [
