@@ -1,0 +1,13 @@
+{
+  "name": "Large Compound Wall",
+  "description": "A large relatively basic defensive wall made out of silicon and metaglass",
+  "type": "Wall",
+  "health": 2560,
+  "size": 2,
+  "requirements": [
+    "s-silicon/12",
+    "s-metaglass/12"
+  ],
+  "category": "defense",
+  "research": "compound-wall"
+}
