@@ -1,7 +1,7 @@
 {
   "name": "Defeat",
   "description": "A simple ground offense unit with a chance to defeat your enemies",
-  "type": "mech",
+  "type": "legs",
   "outlineColor": "00000000",
   "flying": false,
   "speed": 1,
@@ -32,14 +32,14 @@
           "lightColor": "d0e1f0",
           "colorFrom": "d0e1f0",
           "colorTo": "97a9b9",
-          "sizeFrom": 4,
-          "sizeTo": 2
+          "sizeFrom": 1,
+          "sizeTo": 0.5
         },
         "speed": 4,
         "shrinkY": 0,
         "shrinkX": 0,
-        "width": 4,
-        "height": 4,
+        "width": 1,
+        "height": 1,
         "lifetime": 40,
         "lightColor": "d0e1f0",
         "colorFrom": "d0e1f0",
