@@ -10,7 +10,19 @@
         ]
     },
     "drawer": {
-        "type": "DrawHeatInput"
+        "type": "DrawMulti",
+        "drawers": [
+          {
+            "type": "DrawDefault"
+          },
+          {
+            "type": "DrawHeatInput"
+          },
+          {
+            "type": "DrawHeatRegion",
+            "suffix": "-heat"
+          }
+        ]
     },
     "size": 3,
     "hasPower": true,
