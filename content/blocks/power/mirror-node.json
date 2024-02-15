@@ -9,6 +9,9 @@
   "requirements": [
     "palladium/2"
   ],
+  "consumes": {
+    "powerBuffered": 1000
+  },
   "category": "power",
   "research": "coal-furnace"
 }
