@@ -2,7 +2,7 @@
   "name": "Metallic Lighthouse",
   "description": "A basic lighthouse incase it gets too dark",
   "type": "LightBlock",
-  "radius": 140,
+  "radius": 70,
   "health": 540,
   "size": 1,
   "requirements": [
