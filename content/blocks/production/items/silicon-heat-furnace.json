@@ -9,6 +9,9 @@
           "s-sand/4"
         ]
     },
+    "drawer": {
+        "type": "DrawHeatInput"
+    },
     "size": 3,
     "hasPower": true,
     "hasItems": true,
