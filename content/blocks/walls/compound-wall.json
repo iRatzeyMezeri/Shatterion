@@ -1,0 +1,13 @@
+{
+  "name": "Compound Wall",
+  "description": "A relatively basic defensive wall made out of silicon and metaglass",
+  "type": "Wall",
+  "health": 640,
+  "size": 1,
+  "requirements": [
+    "s-silicon/3",
+    "s-metaglass/3"
+  ],
+  "category": "defense",
+  "research": "rhodium-metal-wall"
+}
