@@ -15,7 +15,7 @@
     "hasItems": true,
     "itemCapacity": 20,
     "craftTime": 20,
-    "heatRequirement": 2,
+    "heatRequirement": 3,
     "updateEffect": "pulverize",
     "category": "crafting",
     "research": "metallic-drill"
