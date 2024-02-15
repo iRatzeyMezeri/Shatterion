@@ -21,7 +21,6 @@
     "updateEffect": "pulverize",
     "category": "crafting",
     "research": "metallic-drill"
-    "drawHeatRegion": 1,
     "requirements": [
       "rhodium/180",
       "palladium/60",
