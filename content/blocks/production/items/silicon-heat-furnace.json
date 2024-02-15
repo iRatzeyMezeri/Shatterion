@@ -20,7 +20,7 @@
           },
           {
             "type": "DrawHeatRegion",
-            "suffix": "-heat"
+            "suffix": "-sux"
           }
         ]
     },
