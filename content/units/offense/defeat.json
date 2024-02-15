@@ -22,8 +22,8 @@
         "damage": 80,
         "pierceBuilding": false,
         "pierce": false,
-        "trailColor": "97a9b9",
-        "trailLength": 24,
+        "trailColor": "dce8a9",
+        "trailLength": 16,
         "trailWidth": 2,
         "speed": 4,
         "shrinkY": 0,
@@ -31,9 +31,96 @@
         "width": 4,
         "height": 4,
         "lifetime": 40,
-        "lightColor": "d0e1f0",
-        "colorFrom": "d0e1f0",
-        "colorTo": "97a9b9",
+        "lightColor": "f1f9cf",
+        "colorFrom": "f1f9cf",
+        "colorTo": "dce8a9",
+        "despawnEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 10,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9"
+            },
+            {
+              "type": "ParticleEffect",
+              "sprite": "circle",
+              "speed": 4,
+              "particles": 4,
+              "length": 5,
+              "width": 5,
+              "lifetime": 20,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9",
+              "sizeFrom": 5,
+              "sizeTo": 2
+              }
+          ]
+        },
+        "shootEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 5,
+              "strokeFrom": 2,
+              "strokeTo": 0,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9"
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 7,
+              "strokeFrom": 2,
+              "strokeTo": 0,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9"
+            }
+          ]
+        },
+        "hitEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 10,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9"
+            },
+            {
+              "type": "ParticleEffect",
+              "sprite": "circle",
+              "speed": 4,
+              "particles": 4,
+              "length": 5,
+              "width": 5,
+              "lifetime": 20,
+              "lightColor": "f1f9cf",
+              "colorFrom": "f1f9cf",
+              "colorTo": "dce8a9",
+              "sizeFrom": 5,
+              "sizeTo": 2
+              }
+          ]
+        }
       }
     }
   ]
