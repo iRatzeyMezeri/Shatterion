@@ -5,7 +5,6 @@
     "outputItem": {"item": "s-silicon", "amount": 1},
     "consumes": {
         "power": 2.4,
-        "heat": 2,
         "items": [
           "s-sand/4"
         ]
