@@ -22,7 +22,6 @@
         "damage": 80,
         "pierceBuilding": false,
         "pierce": false,
-        "trailChance": 1,
         "trailColor": "97a9b9",
         "trailLength": 2,
         "trailWidth": 2,
