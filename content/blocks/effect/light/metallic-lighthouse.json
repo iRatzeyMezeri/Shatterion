@@ -6,8 +6,8 @@
   "health": 540,
   "size": 1,
   "requirements": [
-    "rhodium/16",
-    "palladium/4"
+    "rhodium/64",
+    "palladium/16"
   ],
   "category": "effect",
   "research": "core-particle"
