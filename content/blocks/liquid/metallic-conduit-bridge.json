@@ -1,0 +1,14 @@
+{
+  "type": "DirectionLiquidBridge",
+  "size": 1,
+  "name": "Metallic Conduit Bridge",
+  "descriptions": "A simple bridge for liquids, you wont need more complicated than that",
+  "health": 220,
+  "research": "metallic-junction",
+  "category": "liquid",
+  "requirements": [
+    "s-metaglass/14",
+    "s-silicon/8"
+  ],
+  "liquidCapacity": 120
+}
