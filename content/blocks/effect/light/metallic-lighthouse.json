@@ -5,6 +5,7 @@
   "radius": 50,
   "health": 540,
   "size": 1,
+  "connectedPower": false,
   "requirements": [
     "rhodium/64",
     "palladium/16"
