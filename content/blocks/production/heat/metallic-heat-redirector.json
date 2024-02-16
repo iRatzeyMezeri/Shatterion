@@ -4,12 +4,26 @@
   "type": "HeatConductor",
   "health": 820,
   "size": 3,
+  "drawer": {
+    "type": "drawMulti",
+    "drawers": [
+      {
+        "type": "drawDefault",
+      },
+      {
+        "type": "drawHeatInput",
+      },
+      {
+        "type": "drawHeatOutput",
+      },
+    ]
+  },
   "regionRotated1": 1,
   "requirements": [
     "rhodium/32",
     "palladium/14",
     "s-silicon/8"
   ],
-  "category": "production",
+  "category": "crafting",
   "research": "metallic-heater"
 }
