@@ -11,13 +11,21 @@
         ]
     },
     "drawer": {
-        "type": "DrawDefault"
+        "type": "DrawMulti",
+        "drawers": [
+            {
+            "type": "DrawDefault",
+            },
+            {
+            "type": "DrawFlame",
+            }
+        ]
     },
     "size": 3,
     "hasPower": true,
     "hasItems": true,
     "itemCapacity": 15,
-    "craftTime": 160,
+    "craftTime": 50,
     "updateEffect": "pulverize",
     "category": "crafting",
     "research": "silicon-heat-furnace"
