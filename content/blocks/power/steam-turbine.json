@@ -10,7 +10,15 @@
   "LiquidCapacity": 20,
   "updateEffect": "smeltSmoke",
   "drawer": {
-    "type": "DrawFlame"
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      }
+    ]
   },
   "consumes": {
     "liquid": {
@@ -19,9 +27,9 @@
     }
   },
   "requirements": [
-    "silicon/40",
+    "s-silicon/40",
     "palladium/20",
-    "metaglass/20"
+    "s-metaglass/20"
   ],
   "category": "power",
   "research": "coal-furnace"
