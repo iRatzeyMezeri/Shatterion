@@ -1,5 +1,5 @@
 {
-  "type": "LiquidBlock",
+  "type": "LiquidRouter",
   "size": 1,
   "name": "Metallic Conduit Router",
   "descriptions": "A simple router for liquids, you wont need more complicated than that",
