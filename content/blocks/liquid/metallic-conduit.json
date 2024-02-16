@@ -1,9 +1,12 @@
 {
-  "type": "Conduit",
+  "type": "ArmoredConduit",
   "size": 1,
   "name": "Metallic Conduit",
   "descriptions": "A simple conduit for liquids",
   "health": 120,
+  "junctionReplacement": "metallic-conduit-junction",
+  "bridgeReplacement": "metallic-conduit-bridge",
+  "research": "core-particle",
   "category": "liquid",
   "requirements": [
     "s-metaglass/2"
