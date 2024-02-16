@@ -3,6 +3,7 @@
   "type": "Floor",
   "isLiquid": true,
   "liquidDrop": "s-water",
+  "overlayAlpha": 80,
   "variants": 1,
   "status": "wet",
   "placeableOn": false
