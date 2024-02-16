@@ -1,6 +1,6 @@
 {
-  "type": "LiquidBlock",
-  "size": 1,
+  "type": "LiquidRouter",
+  "size": 2,
   "name": "Metallic Liquid Tank",
   "descriptions": "A simple liquid tank",
   "health": 440,
