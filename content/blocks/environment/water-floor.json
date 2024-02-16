@@ -2,5 +2,6 @@
   "name": "Water",
   "type": "Floor",
   "isLiquid": true,
-  "liquidDrop": "s-water"
+  "liquidDrop": "s-water",
+  "variants": 1
 }
