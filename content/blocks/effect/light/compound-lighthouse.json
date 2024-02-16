@@ -1,0 +1,19 @@
+{
+  "name": "Compound Lighthouse",
+  "description": "A larger lighthouse which creates more light, requires power",
+  "type": "LightBlock",
+  "hasPower": true,
+  "consumes": {
+    "power": 1.6
+  },
+  "radius": 130,
+  "health": 820,
+  "size": 2,
+  "requirements": [
+    "s-metaglass/16",
+    "s-silicon/32",
+    "palladium/16"
+  ],
+  "category": "effect",
+  "research": "metallic-lighthouse"
+}
