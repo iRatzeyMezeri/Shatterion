@@ -1,0 +1,8 @@
+{
+  "name": "Water",
+  "type": "Floor",
+  "isLiquid": true,
+  "liquidDrop": "s-water",
+  "variants": 1,
+  "placeableOn": false
+}
