@@ -1,0 +1,15 @@
+{
+  "name": "Metallic Heat Redirector",
+  "description": "A larger version of the rhodium metal wall",
+  "type": "HeatConductor",
+  "health": 820,
+  "size": 3,
+  "regionRotated1": 1,
+  "requirements": [
+    "rhodium/32",
+    "palladium/14",
+    "s-silicon/8"
+  ],
+  "category": "production",
+  "research": "metallic-heater"
+}
