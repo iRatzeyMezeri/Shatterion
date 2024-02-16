@@ -5,7 +5,6 @@
   "size": 1,
   "range": 10,
   "hasPower": true,
-  "powerCapacity": 10,
   "requirements": [
     "palladium/2"
   ],
