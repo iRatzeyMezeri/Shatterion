@@ -2,7 +2,7 @@
   "name": "Metallic Heat Redirector",
   "description": "A larger version of the rhodium metal wall",
   "type": "HeatConductor",
-  "health": 820,
+  "health": 320,
   "size": 3,
   "drawer": {
     "type": "drawMulti",
@@ -20,9 +20,9 @@
   },
   "regionRotated1": 1,
   "requirements": [
-    "rhodium/32",
-    "palladium/14",
-    "s-silicon/8"
+    "rhodium/64",
+    "palladium/28",
+    "s-silicon/16"
   ],
   "category": "crafting",
   "research": "metallic-heater"
