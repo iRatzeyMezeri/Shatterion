@@ -1,0 +1,11 @@
+{
+  "type": "Conduit",
+  "size": 1,
+  "name": "Metallic Conduit",
+  "descriptions": "A simple conduit for liquids",
+  "category": "liquid",
+  "requirements": [
+    "metaglass/2"
+  ],
+  "liquidCapacity": 30
+}
