@@ -1,0 +1,29 @@
+{
+    "name": "Reinforced Glass Smelter",
+    "description": "Combines Sand and Rhodium to make Metaglass",
+    "type": "GenericCrafter",
+    "outputItem": {"item": "s-metaglass", "amount": 1},
+    "consumes": {
+        "power": 3,
+        "items": [
+          "s-sand/2",
+          "rhodium/2"
+        ]
+    },
+    "drawer": {
+        "type": "DrawDefault"
+    },
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 15,
+    "craftTime": 160,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "silicon-heat-furnace"
+    "requirements": [
+      "silicon/100",
+      "rhodium/60",
+      "palladium/20"
+    ],
+}
