@@ -13,7 +13,10 @@
     "type": "DrawFlame"
   },
   "consumes": {
-    "liquid": "s-water"
+    "liquid": {
+      "liquid": "s-water",
+      "amount": 1
+    }
   },
   "requirements": [
     "silicon/40",
