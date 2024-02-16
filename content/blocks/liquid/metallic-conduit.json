@@ -6,7 +6,7 @@
   "health": 120,
   "category": "liquid",
   "requirements": [
-    "metaglass/2"
+    "s-metaglass/2"
   ],
   "liquidCapacity": 30
 }
