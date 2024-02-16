@@ -1,0 +1,25 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Steam Engine",
+  "description": "Burns water to get power",
+  "health": 320,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerProduction": 2.5,
+  "LiquidCapacity": 20,
+  "updateEffect": "smeltSmoke",
+  "drawer": {
+    "type": "DrawFlame"
+  },
+  "consumes": {
+    "liquid": "s-water"
+    }
+  "requirements": [
+    "silicon/40",
+    "palladium/20",
+    "metaglass/20"
+  ],
+  "category": "power",
+  "research": "coal-furnace"
+}
