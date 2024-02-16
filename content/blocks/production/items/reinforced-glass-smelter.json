@@ -30,7 +30,7 @@
     "category": "crafting",
     "research": "silicon-heat-furnace"
     "requirements": [
-      "silicon/100",
+      "s-silicon/100",
       "rhodium/60",
       "palladium/20"
     ],
