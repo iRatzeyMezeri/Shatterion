@@ -1,0 +1,14 @@
+{
+  "type": "LiquidBlock",
+  "size": 1,
+    "name": "Metallic Liquid",
+  "descriptions": "A simple liquid tank",
+  "health": 440,
+  "research": "metallic-router",
+  "category": "liquid",
+  "requirements": [
+    "s-metaglass/64",
+    "s-silicon/12"
+  ],
+  "liquidCapacity": 1800
+}
