@@ -3,6 +3,7 @@
   "size": 1,
   "name": "Metallic Conduit",
   "descriptions": "A simple conduit for liquids",
+  "health": 120,
   "category": "liquid",
   "requirements": [
     "metaglass/2"
