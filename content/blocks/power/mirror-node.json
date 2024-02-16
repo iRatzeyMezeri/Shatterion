@@ -3,8 +3,9 @@
   "name": "Mirror Node",
   "description": "A standart beam node that distributes power",
   "size": 1,
+  "consumesPower": true,
   "range": 10,
-  "hasPower": true,
+  "outputsPower": true,
   "requirements": [
     "palladium/2"
   ],
