@@ -1,0 +1,11 @@
+{
+    "type": "liquid",
+    "name": "Water",
+    "temperature": 0,
+    "viscosity": 0,
+    "explosiveness": 0,
+    "heatCapacity": 0,
+    "effect": "wet",
+    "color": "223258",
+    "description": "Simple water, heavily polluted"
+}
