@@ -1,6 +1,0 @@
-{
-  "name": "Ground Starpoints",
-  "type": "OreBlock",
-  "itemDrop": "starpoint",
-  "variants": 2,
-}
