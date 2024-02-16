@@ -1,6 +1,6 @@
 {
   "type": "ConsumeGenerator",
-  "name": "Steam Engine",
+  "name": "Steam Turbine",
   "description": "Burns water to get power",
   "health": 320,
   "size": 2,
@@ -14,7 +14,7 @@
   },
   "consumes": {
     "liquid": "s-water"
-    }
+  },
   "requirements": [
     "silicon/40",
     "palladium/20",
