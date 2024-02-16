@@ -4,7 +4,7 @@
   "type": "Drill",
   "size": 2,
   "tier": 2,
-  "drillTime": 240,
+  "drillTime": 640,
   "requirements": [
      "rhodium/10",
      "palladium/5"
