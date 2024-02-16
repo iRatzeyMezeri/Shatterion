@@ -4,6 +4,7 @@
   "name": "Metallic Conduit Junction",
   "descriptions": "A simple junction for liquids, you wont need more complicated than that",
   "health": 120,
+  "research": "metallic-conduit",
   "category": "liquid",
   "requirements": [
     "s-metaglass/5"
