@@ -3,5 +3,7 @@
   "type": "Floor",
   "isLiquid": true,
   "liquidDrop": "s-water",
-  "variants": 1
+  "variants": 1,
+  "status": "wet",
+  "placeableOn": false
 }
