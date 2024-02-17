@@ -1,5 +1,5 @@
 {
-  "type": "Turret",
+  "type": "ItemTurret",
   "name": "Cast",
   "description": "A simple artillery turret using light metals as ammo",
   "outlineIcon": false,
