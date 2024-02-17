@@ -12,7 +12,7 @@ mesh: [
     radius: 3.819
     octaves: 2
     persistence: 0.7
-    scale: 0.08
+    scale: 0.3
     mag: 0.8
   }
   {
@@ -25,7 +25,7 @@ mesh: [
     radius: 3.818
     octaves: 2.2
     persistence: 0.4
-    scale: 0.1
+    scale: 0.5
     mag: 1.5
   }
   {
@@ -38,7 +38,7 @@ mesh: [
     radius: 3.82
     octaves: 2.2
     persistence: 0.05
-    scale: 0.01
+    scale: 0.1
     mag: 0.8
   }
   {
@@ -51,7 +51,7 @@ mesh: [
     radius: 3.821
     octaves: 2.2
     persistence: 1
-    scale: 0.12
+    scale: 0.2
     mag: 0.8
   }
   {
@@ -64,7 +64,7 @@ mesh: [
     radius: 3.821
     octaves: 2.2
     persistence: 1
-    scale: 0.05
+    scale: 0.1
     mag: 0.8
   }
 ]
@@ -73,7 +73,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 48
   speed: 0.8
-  radius: 1.05
+  radius: 0.6
   divisions: 4
   color: 4662e87e
   octaves: 2
