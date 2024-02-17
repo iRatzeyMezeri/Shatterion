@@ -9,7 +9,7 @@ mesh: [
     divisions: 4
     color1: d8e3f7
     color2: a9c3ef
-    radius: 3.819
+    radius: 3.817
     octaves: 2
     persistence: 0.7
     scale: 0.3
@@ -22,7 +22,7 @@ mesh: [
     divisions: 4
     color1: 565f71
     color2: 363241
-    radius: 3.818
+    radius: 3.819
     octaves: 2.2
     persistence: 0.4
     scale: 0.5
@@ -35,7 +35,7 @@ mesh: [
     divisions: 4
     color1: e9c8b3
     color2: b07864
-    radius: 3.82
+    radius: 3.821
     octaves: 2.2
     persistence: 0.05
     scale: 0.1
@@ -48,7 +48,7 @@ mesh: [
     divisions: 4
     color1: 324980
     color2: 18223c
-    radius: 3.821
+    radius: 3.823
     octaves: 2.2
     persistence: 1
     scale: 0.2
@@ -61,7 +61,7 @@ mesh: [
     divisions: 4
     color1: 324980
     color2: 18223c
-    radius: 3.821
+    radius: 3.823
     octaves: 2.2
     persistence: 1
     scale: 0.1
@@ -73,7 +73,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 48
   speed: 0.8
-  radius: 0.6
+  radius: 0.45
   divisions: 4
   color: 4662e87e
   octaves: 2
