@@ -1,5 +1,5 @@
 {
-  "name": "Coal Heater",
+  "name": "Mechanical Heater",
   "description": "Combusts coal to gain heat",
   "type": "HeatProducer",
   "requirements": [
