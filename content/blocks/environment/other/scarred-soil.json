@@ -1,0 +1,6 @@
+{
+  "name": "Scarred Soil",
+  "type": "Floor",
+  "variants": 2,
+  "wall": "scarred-wall"
+}
