@@ -5,6 +5,7 @@
   "outlineColor": "00000000",
   "flying": false,
   "speed": 1,
+  "range": 1,
   "hitSize": 8,
   "health": 320,
   "weapons": [
