@@ -13,7 +13,7 @@ mesh: [
     octaves: 2
     persistence: 0.7
     scale: 0.4
-    mag: 1.5
+    mag: 0.8
   }
   {
     // rhodium
@@ -38,7 +38,7 @@ mesh: [
     radius: 3.82
     octaves: 2.2
     persistence: 0.1
-    scale: 0.2
+    scale: 0.01
     mag: 0.8
   }
   {
@@ -51,7 +51,7 @@ mesh: [
     radius: 3.825
     octaves: 2.2
     persistence: 1
-    scale: 1.4
+    scale: 0.4
     mag: 0.8
   }
   {
@@ -64,7 +64,7 @@ mesh: [
     radius: 3.825
     octaves: 2.2
     persistence: 1
-    scale: 0.4
+    scale: 0.04
     mag: 0.8
   }
 ]
