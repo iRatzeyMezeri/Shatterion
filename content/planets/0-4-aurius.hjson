@@ -73,7 +73,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 48
   speed: 0.8
-  radius: 0.4
+  radius: 0.3
   divisions: 4
   color: 4662e87e
   octaves: 2
@@ -91,16 +91,16 @@ generator: {
   # Noise properties.
   octaves: 2
   persistence: 0.4
-  scale: 30
+  scale: 10
   mag: 0.8
   thresh: 1
   foct: 3
   fmag: 0.8
-  fscl: 50
+  fscl: 10
   fper: 0.6
 
-  radMin: 600
-  radMax: 650
+  radMin: 520
+  radMax: 680
 
   stoneChance: 0
 
