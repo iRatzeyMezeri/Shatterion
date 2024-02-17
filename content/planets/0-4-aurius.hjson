@@ -1,34 +1,73 @@
 # permanently borrowed from json example planet
 localizedName: Aurius
 
-mesh: 
-{
-  // snow
-  type: NoiseMesh
-  seed: 34
-  divisions: 4
-  color1: d8e3f7
-  color2: a9c3ef
-  radius: 3.85
-  octaves: 2
-  persistence: 0.7
-  scale: 0.4
-  mag: 1.5
-}
-{
-  // rhodium
-  type: NoiseMesh
-  seed: 82
-  divisions: 4
-  color1: 565f71
-  color2: 363241
-  radius: 3.8
-  octaves: 2.2
-  persistence: 0.4
-  scale: 1
-  mag: 1.5
-}
-
+mesh: [
+  {
+    // snow
+    type: NoiseMesh
+    seed: 34
+    divisions: 4
+    color1: d8e3f7
+    color2: a9c3ef
+    radius: 3.815
+    octaves: 2
+    persistence: 0.7
+    scale: 0.4
+    mag: 1.5
+  }
+  {
+    // rhodium
+    type: NoiseMesh
+    seed: 82
+    divisions: 4
+    color1: 565f71
+    color2: 363241
+    radius: 3.8
+    octaves: 2.2
+    persistence: 0.4
+    scale: 1
+    mag: 1.5
+  }
+  {
+    // palladium
+    type: NoiseMesh
+    seed: 82
+    divisions: 4
+    color1: e9c8b3
+    color2: b07864
+    radius: 3.82
+    octaves: 2.2
+    persistence: 0.1
+    scale: 0.2
+    mag: 0.8
+  }
+  {
+    // water
+    type: NoiseMesh
+    seed: 82
+    divisions: 4
+    color1: 324980
+    color2: 18223c
+    radius: 3.825
+    octaves: 2.2
+    persistence: 1
+    scale: 1.4
+    mag: 0.8
+  }
+  {
+    // other water
+    type: NoiseMesh
+    seed: 82
+    divisions: 4
+    color1: 324980
+    color2: 18223c
+    radius: 3.825
+    octaves: 2.2
+    persistence: 1
+    scale: 0.4
+    mag: 0.8
+  }
+]
 
 cloudMesh: {
   type: HexSkyMesh
