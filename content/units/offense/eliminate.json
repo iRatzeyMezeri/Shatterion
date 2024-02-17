@@ -6,6 +6,7 @@
   "flying": false,
   "speed": 0.5,
   "hitSize": 12,
+  "range": 1,
   "health": 480,
   "weapons": [
     {
