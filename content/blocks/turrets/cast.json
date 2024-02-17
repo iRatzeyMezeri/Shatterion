@@ -1,0 +1,139 @@
+{
+  "type": "Turret",
+  "name": "Cast",
+  "description": "A simple artillery turret using light metals as ammo",
+  "outlineIcon": false,
+  "size": 3,
+  "health": 440,
+  "reload": 180,
+  "range": 220,
+  "inaccuracy": 0,
+  "recoil": 10,
+  "rotateSpeed": 4,
+  "shootSound": "artillery",
+  "ammoTypes": {
+    "rhodium": {
+      "type": "basicBulletType",
+        "sprite": "circle",
+        "damage": 60,
+        "splashDamage": 240,
+        "splashDamageRadius": 25
+        "pierceBuilding": false,
+        "pierce": false,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "particles": 1,
+          "length": 4,
+          "lifetime": 20,
+          "region": "circle",
+          "lightColor": "d0e1f0",
+          "colorFrom": "d0e1f0",
+          "colorTo": "97a9b9",
+          "sizeFrom": 3,
+          "sizeTo": 2
+        },
+        "shootEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 10,
+              "lifetime": 50,
+              "sprite": "circle",
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+              "sizeFrom": 1,
+              "sizeTo": 0.5,
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 10,
+              "strokeFrom": 2,
+              "strokeTo": 0,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+            },
+          ]
+        },
+        "hitEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 50,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "speed": 4,
+              "particles": 12,
+              "length": 5,
+              "lifetime": 20,
+              "cone": -360,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+              "lenFrom": 5,
+              "lenTo": 2
+              },
+          ]
+        },
+        "despawnEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 20,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "particles": 12,
+              "length": 20,
+              "lifetime": 40,
+              "cone": -360,
+              "lightColor": "d0e1f0",
+              "colorFrom": "d0e1f0",
+              "colorTo": "97a9b9",
+              "lenFrom": 20,
+              "lenTo": 15
+              },
+          ]
+        },
+        "speed": 1.2,
+        "shrinkY": -3,
+        "shrinkX": -3,
+        "width": 3,
+        "height": 3,
+        "lifetime": 100,
+        "lightColor": "d0e1f0",
+        "colorFrom": "d0e1f0",
+        "colorTo": "97a9b9",
+      }
+    },
+  "requirements": [
+    "rhodium/72",
+    "s-silicon/24"
+  ],
+  "category": "turret",
+  "research": "core-particle"
+}
