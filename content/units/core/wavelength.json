@@ -8,6 +8,7 @@
   "hitSize": 8,
   "health": 260,
   "mineSpeed": 2,
+  "range": 120,
   "buildSpeed": 10,
   "mineTier": 1,
   "itemCapacity": 50,
