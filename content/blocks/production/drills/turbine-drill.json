@@ -1,0 +1,15 @@
+{
+  "name": "Metallic Drill",
+  "description": "A silightly more powerful drill",
+  "type": "Drill",
+  "size": 2,
+  "tier": 2,
+  "drillTime": 480,
+  "requirements": [
+    "rhodium/34",
+    "palladium/18",
+    "s-silicon/18"
+  ],
+  "category": "production",
+  "research": "metallic-drill"
+}
