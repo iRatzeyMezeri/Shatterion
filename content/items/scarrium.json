@@ -1,0 +1,9 @@
+{
+  "hardness": 1,
+  "cost": 2,
+  "type": "material",
+  "name": "Scarrium",
+  "description": "A simple material used in turrets"
+  "color": "44ac34",
+  "research": "palladium"
+}
