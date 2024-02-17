@@ -1,0 +1,6 @@
+{
+  "name": "Scarrium Ore",
+  "type": "OreBlock",
+  "itemDrop": "scarrium",
+  "variants": 2,
+}
