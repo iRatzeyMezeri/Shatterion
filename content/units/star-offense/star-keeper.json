@@ -8,6 +8,7 @@
   "speed": 0.5,
   "hitSize": 12,
   "health": 820,
+  "range": 1,
   "weapons": [
     {
       "name": "flamekeeper",
