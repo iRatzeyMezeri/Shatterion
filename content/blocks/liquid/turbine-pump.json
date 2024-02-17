@@ -1,0 +1,20 @@
+{
+  "name": "Turbine Pump",
+  "description": "A simple liquid pump. Requires power",
+  "type": "Pump",
+  "size": 2,
+  "pumpAmount": 0.2,
+  "OutputsLiquid": true,
+  "consumes": {
+    "power": 1
+  },
+  "liquidCapacity": 40,
+  "category": "liquid",
+  "requirements": [
+    "metaglass/20",
+    "silicon/36",
+    "rhodium/36",
+    "palladium/16"
+  ],
+  "research": "metallic-conduit"
+}
