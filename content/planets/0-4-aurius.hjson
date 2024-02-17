@@ -31,7 +31,7 @@ mesh: [
   {
     // palladium
     type: NoiseMesh
-    seed: 82
+    seed: 22
     divisions: 4
     color1: e9c8b3
     color2: b07864
@@ -44,7 +44,7 @@ mesh: [
   {
     // water
     type: NoiseMesh
-    seed: 82
+    seed: 44
     divisions: 4
     color1: 324980
     color2: 18223c
@@ -57,7 +57,7 @@ mesh: [
   {
     // other water
     type: NoiseMesh
-    seed: 82
+    seed: 18
     divisions: 4
     color1: 324980
     color2: 18223c
