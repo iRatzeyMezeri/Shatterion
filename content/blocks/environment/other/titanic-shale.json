@@ -1,0 +1,6 @@
+{
+  "name": "Titanic Shale",
+  "type": "Floor",
+  "variants": 2,
+  "wall": "titanic-wall"
+}
