@@ -10,7 +10,7 @@
   "flying": true,
   "health": 100,
   "engineOffset": 2,
-  "range": 40,
+  "range": 1,
   "engineColor": "d0e1f0",
   "circleTarget": false,
   "weapons": [
