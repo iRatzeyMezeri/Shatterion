@@ -6,7 +6,7 @@ mesh: [
     // snow
     type: NoiseMesh
     seed: 34
-    divisions: 4
+    divisions: 5
     color1: d8e3f7
     color2: a9c3ef
     radius: 3.817
@@ -19,7 +19,7 @@ mesh: [
     // rhodium
     type: NoiseMesh
     seed: 82
-    divisions: 4
+    divisions: 5
     color1: 565f71
     color2: 363241
     radius: 3.819
@@ -32,7 +32,7 @@ mesh: [
     // palladium
     type: NoiseMesh
     seed: 22
-    divisions: 4
+    divisions: 5
     color1: e9c8b3
     color2: b07864
     radius: 3.821
@@ -45,7 +45,7 @@ mesh: [
     // water
     type: NoiseMesh
     seed: 44
-    divisions: 4
+    divisions: 5
     color1: 324980
     color2: 18223c
     radius: 3.823
@@ -58,7 +58,7 @@ mesh: [
     // other water
     type: NoiseMesh
     seed: 18
-    divisions: 4
+    divisions: 5
     color1: 324980
     color2: 18223c
     radius: 3.823
@@ -73,8 +73,8 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 48
   speed: 0.8
-  radius: 0.3
-  divisions: 4
+  radius: 0.1
+  divisions: 5
   color: 4662e87e
   octaves: 2
   persistence: 0.7
@@ -91,16 +91,16 @@ generator: {
   # Noise properties.
   octaves: 2
   persistence: 0.4
-  scale: 10
+  scale: 2
   mag: 0.8
   thresh: 1
   foct: 3
   fmag: 0.8
-  fscl: 10
+  fscl: 2
   fper: 0.6
 
-  radMin: 520
-  radMax: 680
+  radMin: 320
+  radMax: 480
 
   stoneChance: 0
 
