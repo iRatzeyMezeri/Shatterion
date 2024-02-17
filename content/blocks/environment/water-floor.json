@@ -3,6 +3,7 @@
   "type": "Floor",
   "isLiquid": true,
   "liquidDrop": "s-water",
+  "cacheLayer": "water",
   "overlayAlpha": 80,
   "variants": 1,
   "status": "wet",
