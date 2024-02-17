@@ -12,7 +12,7 @@
   "reload": 180,
   "range": 220,
   "inaccuracy": 0,
-  "recoil": 10,
+  "recoil": 3,
   "rotateSpeed": 4,
   "shootSound": "artillery",
   "ammoTypes": {
