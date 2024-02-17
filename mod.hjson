@@ -1,6 +1,6 @@
 name: "Shatterion"
 displayName: "Shatterion"
 author: "InxieRatZey"
-description: "a mod that adds a new planet with stuff"
+description: "a mod that adds a new planet with stuff. Warnings: campaign sectors have a light system which might be annoying for people; the sprites are not in mindustry style"
 version: "1.0"
 minGameVersion: "146"
