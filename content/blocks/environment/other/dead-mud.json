@@ -1,0 +1,6 @@
+{
+  "name": "Dead Mud",
+  "type": "Floor",
+  "variants": 2,
+  "wall": "dead-mud-wall"
+}
