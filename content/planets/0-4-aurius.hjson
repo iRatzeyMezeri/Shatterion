@@ -11,7 +11,7 @@ mesh: [
     color2: a9c3ef
     radius: 3.817
     octaves: 2
-    persistence: 0.7
+    persistence: 1
     scale: 0.3
     mag: 0.8
   }
@@ -24,7 +24,7 @@ mesh: [
     color2: 363241
     radius: 3.819
     octaves: 2.2
-    persistence: 0.4
+    persistence: 1
     scale: 0.5
     mag: 1.5
   }
@@ -37,7 +37,7 @@ mesh: [
     color2: b07864
     radius: 3.821
     octaves: 2.2
-    persistence: 0.05
+    persistence: 1
     scale: 0.1
     mag: 0.8
   }
@@ -91,12 +91,12 @@ generator: {
   # Noise properties.
   octaves: 2
   persistence: 0.4
-  scale: 2
+  scale: 0.2
   mag: 0.8
-  thresh: 1
+  thresh: 0.3
   foct: 3
   fmag: 0.8
-  fscl: 2
+  fscl: 0.2
   fper: 0.6
 
   radMin: 320
