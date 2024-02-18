@@ -10,7 +10,7 @@
   "size": 3,
   "researchCostMultiplier": 0.2,
   "health": 420,
-  "reload": 90,
+  "reload": 70,
   "range": 220,
   "inaccuracy": 0,
   "recoil": 5,
@@ -34,8 +34,9 @@
     "smokeEffect": "hitBulletBig"
   },
   "requirements": [
-    "rhodium/48",
+    "rhodium/64",
     "palladium/48",
+    "silicon/32",
     "scarrium/24"
   ],
   "category": "turret",
