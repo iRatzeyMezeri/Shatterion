@@ -10,6 +10,7 @@
       "rhodium/3",
       "palladium/3"
   ],
+  "researchCostMultiplier": 0.05,
   "category": "distribution",
   "research": "metallic-junction"
 }
