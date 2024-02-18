@@ -18,6 +18,7 @@
       },
     ]
   },
+  "researchCostMultiplier": 0.2,
   "regionRotated1": 1,
   "requirements": [
     "rhodium/32",
