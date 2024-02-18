@@ -75,10 +75,10 @@
       }
     },
   "requirements": [
-    "rhodium/140",
-    "s-silicon/80",
-    "s-metaglass/64",
-    "scarrium/24"
+    "rhodium/220",
+    "s-silicon/160",
+    "s-metaglass/120",
+    "scarrium/120"
   ],
   "category": "turret",
   "research": "2-alight"
