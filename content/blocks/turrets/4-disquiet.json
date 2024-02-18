@@ -1,6 +1,6 @@
 {
   "type": "ItemTurret",
-  "name": "Disquite",
+  "name": "Disquiet",
   "description": "A relatively basic turret using Silicon as ammo",
   "outlineIcon": false,
   "drawer": {
