@@ -11,7 +11,7 @@
     "palladium/4",
     "rhodium/4"
   ],
-  "researchCostMultiplier": 0.05,
+  "researchCostMultiplier": 0.2,
   "range": 3,
   "category": "distribution",
   "research": "metallic-router"
