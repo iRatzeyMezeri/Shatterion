@@ -20,7 +20,7 @@
   },
   "regionRotated1": 1,
   "requirements": [
-    "rhodium/64",
+    "rhodium/32",
     "palladium/28",
     "s-silicon/16"
   ],
