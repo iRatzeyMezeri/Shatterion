@@ -36,7 +36,7 @@
   "requirements": [
     "rhodium/64",
     "palladium/48",
-    "silicon/32",
+    "s-silicon/32",
     "scarrium/24"
   ],
   "category": "turret",
