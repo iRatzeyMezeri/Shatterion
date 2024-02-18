@@ -4,5 +4,5 @@
   "name": "Silicon",
   "description": "A relatively basic material which find uses in almost everything"
   "color": "363241",
-  "requiremenets": "s-sand"
+  "research": "s-sand"
 }
