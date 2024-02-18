@@ -9,6 +9,7 @@
   "unitType": "a1-wavelength",
   "category": "effect",
   "research": {
+    "planet": "0-4-aurius",
     "root": true,
     "name": "[#97a9b9]Aurius",
     "requiresUnlock": false
