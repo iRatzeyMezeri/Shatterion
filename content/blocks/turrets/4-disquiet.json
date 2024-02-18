@@ -10,18 +10,22 @@
   "size": 4,
   "researchCostMultiplier": 0.2,
   "health": 680,
-  "reload": 80,
+  "reload": 140,
   "range": 280,
-  "inaccuracy": 15,
+  "inaccuracy": 0,
   "recoil": 0,
   "rotateSpeed": 10,
   "shootSound": "bigshot",
+  "shoot": {
+    "shots": 3,
+    "shotDelay": 0.5
+  },
   "ammoTypes": {
     "silicon": {
       "type": "basicBulletType",
         "sprite": "circle",
         "ammoMultiplier": 10,
-        "damage": 120,
+        "damage": 140,
         "pierce": true,
         "pierceBuilding": true,
         "speed": 2,
