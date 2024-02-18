@@ -1,0 +1,42 @@
+{
+  "type": "PowerTurret",
+  "name": "Electrocute",
+  "description": "A simple laser turret. Requires power",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 3,
+  "health": 420,
+  "reload": 80,
+  "range": 220,
+  "inaccuracy": 0,
+  "recoil": 5,
+  "rotateSpeed": 4,
+  "shootSound": "sap",
+  "consumes": {
+    "power": 3
+  },
+  "shootType": {
+    "type": "shrapnelBulletType",
+    "lifetime": 20,
+    "damage": 40,
+    "serrations": 4,
+    "fromColor": "d39167",
+    "toColor": "fbf2ec",
+    "length": 220,
+    "width": 10,
+    "hitEffect": "blastExplosion",
+    "shootEffect": "blastExplosion",
+    "pierce": true,
+    "smokeEffect": "hitBulletBig"
+  },
+  "requirements": [
+    "rhodium/32",
+    "palladium/32",
+    "scarrium/22"
+  ],
+  "category": "turret",
+  "research": "core-particle"
+}
