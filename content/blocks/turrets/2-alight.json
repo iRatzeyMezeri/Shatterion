@@ -8,6 +8,7 @@
     "basePrefix": "metallic-"
   },
   "size": 3,
+  "researchCostMultiplier": 0.2,
   "health": 520,
   "reload": 4,
   "range": 80,
