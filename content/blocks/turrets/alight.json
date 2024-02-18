@@ -19,7 +19,8 @@
     "s-coal": {
       "type": "basicBulletType",
         "sprite": "circle",
-        "damage": 30,
+        "ammoMultiplier": 10,
+        "damage": 60,
         "pierce": true,
         "pierceBuilding": true,
         "status": "burning",
