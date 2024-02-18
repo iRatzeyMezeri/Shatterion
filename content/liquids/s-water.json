@@ -7,6 +7,6 @@
     "heatCapacity": 0,
     "effect": "wet",
     "color": "223258",
-    "parent": "s-coal",
+    "research": "s-coal",
     "description": "Simple water, heavily polluted"
 }
