@@ -28,7 +28,7 @@
     "craftTime": 50,
     "updateEffect": "pulverize",
     "category": "crafting",
-    "research": "silicon-heat-furnace",
+    "research": "1-silicon-heat-furnace",
     "requirements": [
       "s-silicon/100",
       "rhodium/60",
