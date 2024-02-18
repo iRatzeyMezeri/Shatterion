@@ -9,6 +9,7 @@
      "rhodium/10",
      "palladium/5"
   ],
+  "researchCostMultiplier": 0.05,
   "category": "production",
   "research": "core-particle"
 }
