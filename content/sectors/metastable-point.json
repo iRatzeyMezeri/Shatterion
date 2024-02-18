@@ -3,7 +3,7 @@
   "type": "Sector",
   "difficulty": 1,
   "planet": "0-4-aurius",
-  "captureWave": 1,
+  "captureWave": 2,
   "sector": 52,
   "research": {
     "parent": "core-particle",
