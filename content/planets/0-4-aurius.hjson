@@ -81,11 +81,11 @@ parent: sun
 solarSystem: sun
 launchCandidates: []
 itemWhitelist: [
-  "rhodium", 
-  "palladium",
-  "s-coal", 
-  "s-sand", 
-  "scarrium", 
-  "s-silicon", 
+  "rhodium"
+  "palladium"
+  "s-coal" 
+  "s-sand" 
+  "scarrium" 
+  "s-silicon" 
   "s-metaglass"
 ]
