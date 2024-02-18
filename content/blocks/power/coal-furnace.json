@@ -25,7 +25,7 @@
     }
   "requirements": [
     "rhodium/30",
-    "palladium/30"
+    "palladium/44"
   ],
   "category": "power",
   "research": "core-particle"
