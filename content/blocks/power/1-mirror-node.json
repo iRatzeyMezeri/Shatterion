@@ -12,6 +12,7 @@
   "consumes": {
       "powerBuffered": 1000
   },
+  "researchCostMultiplier": 0.05,
   "category": "power",
   "research": "coal-furnace"
 }
