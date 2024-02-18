@@ -1,0 +1,85 @@
+{
+  "type": "ItemTurret",
+  "name": "Disquite",
+  "description": "A relatively basic turret using Silicon as ammo",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 4,
+  "researchCostMultiplier": 0.2,
+  "health": 680,
+  "reload": 80,
+  "range": 280,
+  "inaccuracy": 15,
+  "recoil": 0,
+  "rotateSpeed": 10,
+  "shootSound": "bigshot",
+  "ammoTypes": {
+    "silicon": {
+      "type": "basicBulletType",
+        "sprite": "circle",
+        "ammoMultiplier": 10,
+        "damage": 120,
+        "pierce": true,
+        "pierceBuilding": true,
+        "speed": 2,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 2,
+        "height": 3,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 1,
+          "lightColor": "47609d",
+          "colorFrom": "47609d",
+          "colorTo": "47609d"
+        },
+        "despawnEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 1,
+          "sizeTo": 0,
+          "lightColor": "47609d",
+          "colorFrom": "47609d",
+          "colorTo": "47609d"
+        },
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 3,
+          "lightColor": "bcc9ea",
+          "colorFrom": "bcc9ea",
+          "colorTo": "47609d"
+        },
+        "lifetime": 140,
+        "shrinkX": 2,
+        "shrinkY": 2,
+        "lightColor": "889ed4",
+        "colorFrom": "889ed4",
+        "colorTo": "47609d"
+      }
+    },
+  "requirements": [
+    "rhodium/140",
+    "s-silicon/80",
+    "s-metaglass/64",
+    "scarrium/24"
+  ],
+  "category": "turret",
+  "research": "2-alight"
+}
