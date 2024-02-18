@@ -5,5 +5,5 @@
   "name": "Palladium",
   "description": "A simple material used in electricity-related content"
   "color": "d39167",
-  "requiremenets": "core-particle"
+  "parent": "core-particle"
 }
