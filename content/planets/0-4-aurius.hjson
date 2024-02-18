@@ -80,4 +80,6 @@ defaultCore: core-particle
 parent: sun
 solarSystem: sun
 launchCandidates: []
-hiddenItems: []
+itemWhitelist: [
+  rhodium, palladium, s-coal, s-sand, scarrium, s-silicon, s-metaglass
+]
