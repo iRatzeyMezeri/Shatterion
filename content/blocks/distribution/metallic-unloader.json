@@ -11,6 +11,7 @@
       "palladium/5",
       "s-silicon/5"
   ],
+  "researchCostMultiplier": 0.2,
   "category": "distribution",
   "research": "metallic-overflow-gate"
 }
