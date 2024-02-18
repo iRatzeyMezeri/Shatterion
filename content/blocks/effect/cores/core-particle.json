@@ -8,6 +8,11 @@
   "unitCapModifier": 16,
   "unitType": "a1-wavelength",
   "category": "effect",
+  "requirements": [
+    "rhodium/800",
+    "palladium/480",
+    "s-silicon/320"
+  ],
   "research": {
     "planet": "0-4-aurius",
     "root": true,
