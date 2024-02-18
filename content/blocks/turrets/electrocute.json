@@ -9,7 +9,7 @@
   },
   "size": 3,
   "health": 420,
-  "reload": 80,
+  "reload": 50,
   "range": 220,
   "inaccuracy": 0,
   "recoil": 5,
