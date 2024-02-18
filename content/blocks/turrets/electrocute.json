@@ -9,7 +9,7 @@
   },
   "size": 3,
   "health": 420,
-  "reload": 50,
+  "reload": 90,
   "range": 220,
   "inaccuracy": 0,
   "recoil": 5,
@@ -21,7 +21,7 @@
   "shootType": {
     "type": "shrapnelBulletType",
     "lifetime": 20,
-    "damage": 280,
+    "damage": 240,
     "serrations": 4,
     "fromColor": "d39167",
     "toColor": "fbf2ec",
