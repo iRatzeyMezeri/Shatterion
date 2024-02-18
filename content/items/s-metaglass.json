@@ -4,5 +4,5 @@
   "name": "Metaglass",
   "description": "A relatively basic material mostly finding use in liquid-related content"
   "color": "97a9b9",
-  "requiremenets": "s-sand"
+  "research": "s-sand"
 }
