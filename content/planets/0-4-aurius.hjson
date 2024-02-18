@@ -86,6 +86,6 @@ itemWhitelist: [
   "s-coal",
   "s-sand",
   "s-silicon",
-  "s-metaglass:,
+  "s-metaglass",
   "scarrium"
 ]
