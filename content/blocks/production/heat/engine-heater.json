@@ -1,0 +1,19 @@
+{
+  "name": "Engine Heater",
+  "description": "Uses energy to produce heat",
+  "type": "HeatProducer",
+  "requirements": [
+    "rhodium/60",
+    "s-silicon/30",
+    "palladium/40"
+  ],
+  "size": 2,
+  "heatOutput": 4,
+  "regionRotated1": 1,
+  "ambientSound": "hum",
+  "consumes": {
+    "power": 2,
+  },
+  "research": "mechanical-heater",
+  "category": "crafting"
+}
