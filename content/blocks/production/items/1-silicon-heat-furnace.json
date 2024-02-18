@@ -36,7 +36,7 @@
     "researchCostMultiplier": 0.05,
     "updateEffect": "pulverize",
     "category": "crafting",
-    "research": "metallic-drill",
+    "research": "1-metallic-drill",
     "requirements": [
       "rhodium/180",
       "palladium/60",
