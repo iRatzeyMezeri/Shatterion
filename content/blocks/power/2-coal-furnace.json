@@ -27,6 +27,7 @@
     "rhodium/30",
     "palladium/44"
   ],
+  "researchCostMultiplier": 0.05,
   "category": "power",
   "research": "core-particle"
 }
