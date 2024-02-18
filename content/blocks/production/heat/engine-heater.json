@@ -3,9 +3,9 @@
   "description": "Uses energy to produce heat",
   "type": "HeatProducer",
   "requirements": [
-    "rhodium/60",
-    "s-silicon/30",
-    "palladium/40"
+    "rhodium/64",
+    "s-silicon/48",
+    "palladium/48"
   ],
   "size": 2,
   "heatOutput": 4,
