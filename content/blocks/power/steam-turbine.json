@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "powerProduction": 2.5,
+  "powerProduction": 3.5,
   "LiquidCapacity": 20,
   "updateEffect": "smeltSmoke",
   "drawer": {
@@ -27,9 +27,9 @@
     }
   },
   "requirements": [
-    "s-silicon/40",
-    "palladium/20",
-    "s-metaglass/20"
+    "s-silicon/80",
+    "palladium/48",
+    "s-metaglass/48"
   ],
   "category": "power",
   "research": "coal-furnace"
