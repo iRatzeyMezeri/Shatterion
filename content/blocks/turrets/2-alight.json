@@ -76,8 +76,8 @@
       }
     },
   "requirements": [
-    "rhodium/32",
-    "palladium/32",
+    "rhodium/64",
+    "palladium/64",
     "scarrium/24"
   ],
   "category": "turret",
