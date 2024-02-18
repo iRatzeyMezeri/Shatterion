@@ -33,9 +33,9 @@
     "smokeEffect": "hitBulletBig"
   },
   "requirements": [
-    "rhodium/32",
-    "palladium/32",
-    "scarrium/22"
+    "rhodium/48",
+    "palladium/48",
+    "scarrium/24"
   ],
   "category": "turret",
   "research": "cast"
