@@ -21,7 +21,7 @@
   "shootType": {
     "type": "shrapnelBulletType",
     "lifetime": 20,
-    "damage": 40,
+    "damage": 280,
     "serrations": 4,
     "fromColor": "d39167",
     "toColor": "fbf2ec",
