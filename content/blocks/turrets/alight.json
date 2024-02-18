@@ -1,0 +1,82 @@
+{
+  "type": "ItemTurret",
+  "name": "Alight",
+  "description": "A simple flamethrower turret using coal as ammo",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 3,
+  "health": 520,
+  "reload": 10,
+  "range": 80,
+  "inaccuracy": 0,
+  "recoil": 3,
+  "rotateSpeed": 10,
+  "shootSound": "artillery",
+  "ammoTypes": {
+    "coal": {
+      "type": "basicBulletType",
+        "sprite": "circle",
+        "damage": 30,
+        "pierce": true,
+        "pierceBuilding": true,
+        "speed": 1,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 1,
+        "height": 1,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 1,
+          "lightColor": "eeb279",
+          "colorFrom": "eeb279",
+          "colorTo": "e77349"
+        },
+        "despawnEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 1,
+          "sizeTo": 0,
+          "lightColor": "eeb279",
+          "colorFrom": "eeb279",
+          "colorTo": "e77349"
+        },
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 3,
+          "lightColor": "ffe3c9",
+          "colorFrom": "ffe3c9",
+          "colorTo": "e77349"
+        },
+        "lifetime": 80,
+        "shrinkX": 2,
+        "shrinkY": 2,
+        "lightColor": "ffe3c9",
+        "colorFrom": "ffe3c9",
+        "colorTo": "e77349"
+      }
+    },
+  "requirements": [
+    "rhodium/32",
+    "palladium/32",
+    "scarrium/24"
+  ],
+  "category": "turret",
+  "research": "cast"
+}
