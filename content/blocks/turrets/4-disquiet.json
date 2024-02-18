@@ -13,12 +13,12 @@
   "reload": 140,
   "range": 280,
   "inaccuracy": 0,
-  "recoil": 0,
+  "recoil": 10,
   "rotateSpeed": 10,
   "shootSound": "bigshot",
   "shoot": {
     "shots": 3,
-    "shotDelay": 0.5
+    "shotDelay": 10
   },
   "ammoTypes": {
     "silicon": {
