@@ -71,7 +71,7 @@ visible: true
 atmosphereColor: aaaaaaaa
 iconColor: d8e3f7
 hasAtmosphere: false
-allowWaveSimulation: true
+allowWaveSimulation: false
 allowLaunchToNumbered: false
 clearSectorOnLose: true
 allowWaves: true
