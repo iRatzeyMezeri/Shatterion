@@ -5,5 +5,5 @@
   "name": "Sand",
   "description": "A simple dust mostly used to obtain silicon"
   "color": "363241",
-  "requiremenets": "s-coal"
+  "research": "s-coal"
 }
