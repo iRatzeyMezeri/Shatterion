@@ -6,5 +6,6 @@
     "explosiveness": 0,
     "heatCapacity": 0,
     "color": "363241",
+    "parent": "s-water",
     "description": "Extremely polluted water, Can be ionised"
 }
