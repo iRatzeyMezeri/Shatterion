@@ -10,5 +10,6 @@
     "s-metaglass/14",
     "s-silicon/8"
   ],
+  "researchCostMultiplier": 0.2,
   "liquidCapacity": 120
 }
