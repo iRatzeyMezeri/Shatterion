@@ -21,7 +21,7 @@
     "shotDelay": 10
   },
   "ammoTypes": {
-    "silicon": {
+    "s-silicon": {
       "type": "basicBulletType",
         "sprite": "circle",
         "ammoMultiplier": 10,
