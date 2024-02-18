@@ -16,5 +16,6 @@
     "rhodium/36",
     "palladium/16"
   ],
+  "researchCostMultiplier": 0.2,
   "research": "metallic-conduit"
 }
