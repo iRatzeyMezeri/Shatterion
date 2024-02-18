@@ -10,9 +10,9 @@
   "health": 820,
   "size": 2,
   "requirements": [
-    "s-metaglass/16",
-    "s-silicon/32",
-    "palladium/16"
+    "s-metaglass/32",
+    "s-silicon/48",
+    "palladium/32"
   ],
   "category": "effect",
   "research": "metallic-lighthouse"
