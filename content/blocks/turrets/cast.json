@@ -9,11 +9,11 @@
   },
   "size": 3,
   "health": 440,
-  "reload": 180,
+  "reload": 150,
   "range": 220,
   "inaccuracy": 0,
   "recoil": 3,
-  "rotateSpeed": 4,
+  "rotateSpeed": 10,
   "shootSound": "artillery",
   "ammoTypes": {
     "rhodium": {
@@ -21,7 +21,7 @@
         "sprite": "circle",
         "damage": 60,
         "splashDamage": 240,
-        "splashDamageRadius": 25
+        "splashDamageRadius": 40
         "pierceBuilding": false,
         "pierce": false,
         "trailChance": 1,
