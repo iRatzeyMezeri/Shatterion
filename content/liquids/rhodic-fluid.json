@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "name": "Rhodic Fluid",
+    "temperature": 0,
+    "viscosity": 0.5,
+    "explosiveness": 0,
+    "heatCapacity": 0,
+    "color": "363241",
+    "description": "Extremely polluted water, Can be ionised"
+}
