@@ -11,10 +11,10 @@
   "researchCostMultiplier": 0.2,
   "health": 680,
   "reload": 100,
-  "range": 280,
+  "range": 560,
   "inaccuracy": 0,
   "recoil": 10,
-  "rotateSpeed": 4,
+  "rotateSpeed": 2,
   "shootSound": "shootBig",
   "shoot": {
     "shots": 3,
@@ -28,7 +28,7 @@
         "damage": 140,
         "pierce": true,
         "pierceBuilding": true,
-        "speed": 2,
+        "speed": 4,
         "width": 10,
         "height": 15,
         "trailChance": 1,
@@ -69,8 +69,6 @@
           "colorTo": "47609d"
         },
         "lifetime": 140,
-        "shrinkX": 2,
-        "shrinkY": 2,
         "lightColor": "e9eefb",
         "colorFrom": "e9eefb",
         "colorTo": "47609d"
