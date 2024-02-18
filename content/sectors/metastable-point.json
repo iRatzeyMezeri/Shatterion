@@ -1,5 +1,6 @@
 {
-  "localisedName": "Metastable Point",
+  "localizedName": "Metastable Point",
+  "type": "Sector",
   "difficulty": 1,
   "planet": "0-4-aurius",
   "sector": 52,
