@@ -1,5 +1,5 @@
 {
-  "cost": 2,
+  "cost": 0.4,
   "type": "material",
   "name": "Silicon",
   "description": "A relatively basic material which find uses in almost everything"
