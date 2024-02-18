@@ -11,5 +11,6 @@
   "requirements": [
     "s-metaglass/2"
   ],
+  "researchCostMultiplier": 0.2,
   "liquidCapacity": 30
 }
