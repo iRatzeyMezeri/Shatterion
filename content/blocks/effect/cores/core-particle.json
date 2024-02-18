@@ -6,7 +6,7 @@
   "size": 3,
   "itemCapacity": 3000,
   "unitCapModifier": 16,
-  "unitType": "wavelength",
+  "unitType": "a1-wavelength",
   "category": "effect",
   "research": {
     "root": true,
