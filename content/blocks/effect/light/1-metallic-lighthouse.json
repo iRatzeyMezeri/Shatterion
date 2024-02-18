@@ -10,6 +10,7 @@
     "rhodium/64",
     "palladium/16"
   ],
+  "researchCostMultiplier": 0.05,
   "category": "effect",
   "research": "core-particle"
 }
