@@ -1,0 +1,9 @@
+{
+  "name": "Rhodic Fluid",
+  "type": "Floor",
+  "isLiquid": true,
+  "liquidDrop": "rhodic-fluid",
+  "cacheLayer": "water",
+  "overlayAlpha": 80,
+  "variants": 2
+}
