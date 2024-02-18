@@ -9,7 +9,7 @@
     "palladium/1",
     "rhodium/1"
   ]
-  "researchCostMultiplier": 0.05,
+  "researchCostMultiplier": 0.2,
   "category": "distribution",
   "research": "core-particle"
 }
