@@ -16,6 +16,7 @@
       "s-coal/1"
     ]
   },
+  "researchCostMultiplier": 0.05,
   "research": "coal-furnace",
   "category": "crafting",
   "craftTime": "60",
