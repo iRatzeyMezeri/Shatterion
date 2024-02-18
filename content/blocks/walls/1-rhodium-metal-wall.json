@@ -8,5 +8,6 @@
     "rhodium/8"
   ],
   "category": "defense",
+  "researchCostMultiplier": 0.05,
   "research": "core-particle"
 }
