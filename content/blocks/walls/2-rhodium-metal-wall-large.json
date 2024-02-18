@@ -8,5 +8,6 @@
     "rhodium/32"
   ],
   "category": "defense",
+  "researchCostMultiplier": 0.2,
   "research": "rhodium-metal-wall"
 }
