@@ -8,6 +8,7 @@
   "unitCapModifier": 16,
   "unitType": "a1-wavelength",
   "category": "effect",
+  "researchCostMultiplier": 0,
   "requirements": [
     "rhodium/800",
     "palladium/480",
