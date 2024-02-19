@@ -1,0 +1,45 @@
+{
+    "name": "Blast Anvil",
+    "description": "Combines silicon and rhodic fluid into Blast alloy. Requires power and heat",
+    "type": "HeatCrafter",
+    "outputItem": {"item": "blast-alloy", "amount": 1},
+    "consumes": {
+        "power": 2.4,
+        "items": [
+          "s-silicon/3"
+        ],
+        "liquids": [
+          "rhodic-fluid/14"
+        ]
+    },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+          {
+            "type": "DrawDefault"
+          },
+          {
+            "type": "DrawHeatInput"
+          },
+          {
+            "type": "DrawFlame",
+            "flameColor": "bebee1"
+          }
+        ]
+    },
+    "size": 4,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 20,
+    "heatRequirement": 8,
+    "craftTime": 80,
+    "updateEffect": "smeltsmoke",
+    "category": "crafting",
+    "research": "2-silicon-heat-furnace",
+    "requirements": [
+      "rhodium/320",
+      "s-silicon/240",
+      "s-metaglass/180",
+      "palladium/120"
+    ],
+}
