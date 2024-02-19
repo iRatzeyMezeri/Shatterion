@@ -8,7 +8,7 @@
   "hitSize": 8,
   "health": 260,
   "mineSpeed": 2,
-  "buildSpeed": 10,
+  "buildSpeed": 0.8,
   "mineTier": 1,
   "itemCapacity": 50,
   "weapons": [
