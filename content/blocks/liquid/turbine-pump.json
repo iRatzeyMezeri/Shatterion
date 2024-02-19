@@ -11,8 +11,8 @@
   "liquidCapacity": 40,
   "category": "liquid",
   "requirements": [
-    "metaglass/20",
-    "silicon/36",
+    "s-metaglass/20",
+    "s-silicon/36",
     "rhodium/36",
     "palladium/16"
   ],
