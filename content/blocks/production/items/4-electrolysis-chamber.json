@@ -8,6 +8,21 @@
           "s-water/0.2"
         ]
     },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+          {
+            "type": "DrawDefault"
+          },
+          {
+            "type": "DrawLiquidOutputs"
+          },
+          {
+            "type": "DrawLiquidRegion",
+            "drawLiquid": "s-water"
+          }
+        ]
+    },
     "outputLiquids": [
       "s-hydrogen/0.1",
       "s-ozone/0.1"
