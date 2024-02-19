@@ -31,7 +31,8 @@
       2,
       4
     ],
-    "regionRotated": 1,
+    "regionRotated1": 2,
+    "regionRotated2": 4,
     "size": 3,
     "hasPower": true,
     "hasItems": false,
