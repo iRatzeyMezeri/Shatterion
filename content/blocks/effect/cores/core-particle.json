@@ -8,7 +8,7 @@
   "unitCapModifier": 16,
   "unitType": "a1-wavelength",
   "category": "effect",
-  "researchCost": [],
+  "alwaysUnlocked": true,
   "requirements": [
     "rhodium/800",
     "palladium/480",
