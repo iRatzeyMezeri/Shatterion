@@ -33,6 +33,7 @@
     ],
     "regionRotated1": 2,
     "regionRotated2": 4,
+    "rotate": true,
     "size": 3,
     "hasPower": true,
     "hasItems": false,
