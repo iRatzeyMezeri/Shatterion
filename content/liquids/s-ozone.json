@@ -1,0 +1,12 @@
+{
+    "type": "liquid",
+    "name": "Ozone",
+    "gas": true,
+    "flammability": 1,
+    "viscosity": 0,
+    "explosiveness": 0.6,
+    "heatCapacity": 0.6,
+    "color": "ecbad7",
+    "research": "s-water",
+    "description": "Ozone in its pure form"
+}
