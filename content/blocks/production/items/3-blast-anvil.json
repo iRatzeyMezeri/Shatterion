@@ -26,7 +26,8 @@
             "flameColor": "bebee1"
           },
           {
-            "type": "DrawLiquidRegion"
+            "type": "DrawLiquidRegion",
+            "drawLiquid": "rhodic-fluid"
           }
         ]
     },
