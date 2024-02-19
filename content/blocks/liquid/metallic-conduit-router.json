@@ -4,7 +4,7 @@
   "name": "Metallic Conduit Router",
   "descriptions": "A simple router for liquids, you wont need more complicated than that",
   "health": 180,
-  "research": "metallic-junction",
+  "research": "metallic-conduit-junction",
   "category": "liquid",
   "requirements": [
     "s-metaglass/12"
