@@ -1,0 +1,34 @@
+{
+    "name": "Electrolysis Chamber",
+    "description": "Turns water into Hydrogen and Ozone",
+    "type": "GenericCrafter",
+    "consumes": {
+        "power": 5,
+        "liquids": [
+          "s-water/0.2"
+        ]
+    },
+    "outputLiquids": [
+      "s-hydrogen/0.1",
+      "s-ozone/0.1"
+    ],
+    "liquidOutputDirections": [
+      2,
+      4
+    ],
+    "size": 3,
+    "hasPower": true,
+    "hasItems": false,
+    "hasLiquids": true,
+    "liquidCapacity": 60,
+    "craftTime": 60,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "1-silicon-heat-furnace",
+    "requirements": [
+      "metaglass/120",
+      "silicon/64",
+      "rhodium/64",
+      "blast-alloy/24"
+    ],
+}
