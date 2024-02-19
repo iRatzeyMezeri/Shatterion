@@ -3,6 +3,8 @@
   "type": "Conveyor",
   "description": "a simple slow conveyor."
   "health": 80,
+  "bridgeReplacement": "metallic-bridge",
+  "junctionReplacement": "metallic-junction",
   "itemCapacity": 3,
   "speed": 0.05,
   "requirements": [
