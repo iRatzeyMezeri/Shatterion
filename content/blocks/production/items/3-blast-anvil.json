@@ -23,7 +23,9 @@
           },
           {
             "type": "DrawFlame",
-            "flameColor": "bebee1"
+            "flameColor": "bebee1",
+            "flameRadius": 6,
+            "flameRadiusIn": 4,
           },
           {
             "type": "DrawLiquidRegion",
@@ -35,7 +37,7 @@
     "hasPower": true,
     "hasItems": true,
     "hasLiquids": true,
-    "liquidCapacity": 30,
+    "liquidCapacity": 80,
     "itemCapacity": 20,
     "heatRequirement": 8,
     "craftTime": 80,
