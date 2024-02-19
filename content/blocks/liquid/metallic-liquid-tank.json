@@ -4,7 +4,7 @@
   "name": "Metallic Liquid Tank",
   "descriptions": "A simple liquid tank",
   "health": 440,
-  "research": "metallic-router",
+  "research": "metallic-conduit-router",
   "category": "liquid",
   "requirements": [
     "s-metaglass/64",
