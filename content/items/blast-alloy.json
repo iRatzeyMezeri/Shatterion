@@ -1,0 +1,8 @@
+{
+  "cost": 0.4,
+  "type": "material",
+  "name": "Blast Alloy",
+  "description": "A heat resistant material made from Silicon and Rhodic Fluid"
+  "color": "55556f",
+  "research": "s-silicon"
+}
