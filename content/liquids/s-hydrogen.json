@@ -1,0 +1,12 @@
+{
+    "type": "liquid",
+    "name": "Hydrogen",
+    "gas": true,
+    "flammability": 0.4,
+    "viscosity": 0,
+    "explosiveness": 1,
+    "heatCapacity": 0.4,
+    "color": "bee8e7",
+    "research": "s-water",
+    "description": "Hydrogen in its pure form"
+}
