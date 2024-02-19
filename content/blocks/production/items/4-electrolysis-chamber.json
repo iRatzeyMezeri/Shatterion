@@ -44,8 +44,8 @@
     "category": "crafting",
     "research": "1-silicon-heat-furnace",
     "requirements": [
-      "metaglass/120",
-      "silicon/64",
+      "s-metaglass/120",
+      "s-silicon/64",
       "rhodium/64",
       "blast-alloy/24"
     ],
