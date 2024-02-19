@@ -34,6 +34,8 @@
     "size": 4,
     "hasPower": true,
     "hasItems": true,
+    "hadLiquids": true,
+    "liquidCapacity": 30,
     "itemCapacity": 20,
     "heatRequirement": 8,
     "craftTime": 80,
