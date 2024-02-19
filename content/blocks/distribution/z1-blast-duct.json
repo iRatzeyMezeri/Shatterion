@@ -6,7 +6,7 @@
   "bridgeReplacement": "metallic-bridge",
   "junctionReplacement": "metallic-junction",
   "itemCapacity": 1,
-  "speed": 0.2,
+  "speed": 0.002,
   "armored": true,
   "requirements": [
     "blast-alloy/2"
