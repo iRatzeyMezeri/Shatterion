@@ -1,0 +1,38 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Hydrogen Oven",
+  "description": "Combusts excess Hydrogen to obtain power.",
+  "health": 320,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerProduction": 3,
+  "LiquidCapacity": 20,
+  "updateEffect": "pulverise",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawShape"
+        "sides": 4,
+        "color": "89cac8"
+      }
+    ]
+  },
+  "consumes": {
+    "liquid": {
+      "liquid": "s-hydrogen",
+      "amount": 0.1
+    }
+  },
+  "requirements": [
+    "palladium/48",
+    "blast-alloy/24",
+    "s-silicon/24"
+  ],
+  "category": "power",
+  "research": "3-stem-turbine"
+}
