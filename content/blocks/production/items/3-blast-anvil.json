@@ -24,6 +24,9 @@
           {
             "type": "DrawFlame",
             "flameColor": "bebee1"
+          },
+          {
+            "type": "DrawLiquidRegion"
           }
         ]
     },
