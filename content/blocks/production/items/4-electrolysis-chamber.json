@@ -2,6 +2,7 @@
     "name": "Electrolysis Chamber",
     "description": "Turns water into Hydrogen and Ozone",
     "type": "GenericCrafter",
+    "health": 540
     "consumes": {
         "power": 5,
         "liquids": [
