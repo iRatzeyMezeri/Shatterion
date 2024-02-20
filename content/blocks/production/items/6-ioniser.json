@@ -2,6 +2,7 @@
     "name": "Ioniser",
     "description": "Uses energy to ionise rhodic fluid",
     "type": "GenericCrafter",
+    "health": 480,
     "outputLiquids": [
       "ionic-fluid/0.4"
     ],
