@@ -16,9 +16,9 @@
         "type": "DrawDefault"
       },
       {
-        "type": "DrawShape"
-        "sides": 4,
-        "radius": 4,
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 4,
         "color": "89cac8"
       }
     ]
