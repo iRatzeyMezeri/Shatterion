@@ -1,0 +1,40 @@
+{
+    "name": "Water Filter",
+    "description": "Filters rhodic water into normal power",
+    "type": "GenericCrafter",
+    "health": 420,
+    "outputLiquids": [
+      "s-water/0.8"
+    ],
+    "consumes": {
+        "power": 2,
+        "liquids": [
+          "rhodic-fluid/0.8"
+        ]
+    },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+            "type": "DrawDefault",
+            },
+            {
+            "type": "DrawFlame",
+            }
+        ]
+    },
+    "size": 2,
+    "hasPower": true,
+    "hasItems": false,
+    "hasLiquids": true,
+    "liquidCapacity": 60,
+    "craftTime": 60,
+    "updateEffect": "smeltsmoke",
+    "category": "crafting",
+    "research": "4-electrolysis-chamber",
+    "requirements": [
+      "s-metaglass/120",
+      "s-silicon/60",
+      "blast-alloy/60"
+    ],
+}
