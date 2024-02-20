@@ -3,12 +3,12 @@
     "description": "Uses energy to ionise rhodic fluid",
     "type": "GenericCrafter",
     "outputLiquids": [
-      "ionic-fluid/24"
+      "ionic-fluid/0.4"
     ],
     "consumes": {
         "power": 5,
         "liquids": [
-          "rhodic-fluid/96"
+          "rhodic-fluid/1.6"
         ]
     },
     "drawer": {
