@@ -2,6 +2,7 @@
     "name": "Blast Anvil",
     "description": "Combines silicon and rhodic fluid into Blast alloy. Requires power and heat",
     "type": "HeatCrafter",
+    "health": 880,
     "outputItem": {"item": "blast-alloy", "amount": 1},
     "consumes": {
         "power": 2.4,
