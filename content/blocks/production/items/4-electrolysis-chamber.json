@@ -15,11 +15,15 @@
             "type": "DrawDefault"
           },
           {
+            "type": "DrawRegion"
+          },
+          {
             "type": "DrawLiquidOutputs"
           },
           {
-            "type": "DrawLiquidRegion",
+            "type": "DrawLiquidTile",
             "drawLiquid": "s-water"
+            "alpha": 2
           }
         ]
     },
