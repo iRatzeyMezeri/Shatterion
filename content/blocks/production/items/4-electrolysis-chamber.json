@@ -23,7 +23,7 @@
           {
             "type": "DrawLiquidRegion",
             "drawLiquid": "s-water"
-            "alpha": 2
+            "alpha": 0.4
           }
         ]
     },
