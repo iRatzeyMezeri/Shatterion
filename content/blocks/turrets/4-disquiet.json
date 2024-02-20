@@ -24,7 +24,7 @@
     "s-silicon": {
       "type": "basicBulletType",
         "sprite": "circle",
-        "ammoMultiplier": 3,
+        "ammoMultiplier": 0.5,
         "damage": 140,
         "pierce": true,
         "pierceBuilding": true,
