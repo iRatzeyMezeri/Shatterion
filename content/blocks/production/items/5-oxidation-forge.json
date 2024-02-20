@@ -2,7 +2,7 @@
     "name": "Oxidation Forge",
     "description": "Uses pressurized Ozone and Palladium to make Ozonate",
     "type": "GenericCrafter",
-    "health": 540,
+    "health": 840,
     "outputItems": [
       "ozonate/1"
     ],
