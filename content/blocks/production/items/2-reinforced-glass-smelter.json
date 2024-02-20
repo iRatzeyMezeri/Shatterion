@@ -2,6 +2,7 @@
     "name": "Reinforced Glass Smelter",
     "description": "Combines Sand and Rhodium to make Metaglass",
     "type": "GenericCrafter",
+    "health": 340,
     "outputItem": {"item": "s-metaglass", "amount": 1},
     "consumes": {
         "power": 3,
