@@ -13,6 +13,8 @@
   "range": 160,
   "inaccuracy": 0,
   "recoil": 14,
+  "hasLiquids": true,
+  "liquidCapacity": 80,
   "rotateSpeed": 10,
   "shootSound": "sap",
   "shoot": {
