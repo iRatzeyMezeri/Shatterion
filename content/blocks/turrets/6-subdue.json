@@ -12,7 +12,7 @@
   "reload": 50,
   "range": 160,
   "inaccuracy": 0,
-  "recoil": 14,
+  "recoil": 4,
   "hasLiquids": true,
   "liquidCapacity": 80,
   "rotateSpeed": 10,
