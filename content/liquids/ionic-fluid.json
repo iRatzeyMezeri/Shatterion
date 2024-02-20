@@ -1,0 +1,11 @@
+{
+    "type": "liquid",
+    "name": "Ionic Fluid",
+    "temperature": 0,
+    "viscosity": 0.5,
+    "explosiveness": 0,
+    "heatCapacity": 0.4,
+    "color": "ffffff",
+    "research": "rhodic-fluid",
+    "description": "Rhodic fluid carrying a lot of electric charge"
+}
