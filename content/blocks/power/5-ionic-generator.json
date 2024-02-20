@@ -1,0 +1,49 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Ionic Generator",
+  "description": "Uses Ionic Fluid to generate power. Produces Hydrogen as a byproduct",
+  "health": 660,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerProduction": 13,
+  "LiquidCapacity": 80,
+  "updateEffect": "pulverise",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame"
+      },
+      {
+        "type": "DrawPulseShape",
+        "radiusScl": 4,
+        "color": "ffffff"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "color": "ffffff",
+      }
+    ]
+  },
+  "consumes": {
+    "liquids": [
+      "ionic-fluid/0.2"
+    ],
+  },
+  "outputLiquids": [
+    "hydrogen/0.2"
+  ],
+  "requirements": [
+    "ozonate/80",
+    "blast-alloy/120",
+    "s-silicon/60",
+    "s-metaglass/24",
+    "palladium/24"
+  ],
+  "category": "power",
+  "research": "4-hydrogen-oven"
+}
