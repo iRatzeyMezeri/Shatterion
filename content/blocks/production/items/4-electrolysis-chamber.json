@@ -24,6 +24,10 @@
             "type": "DrawLiquidRegion",
             "drawLiquid": "s-water"
             "alpha": 0.4
+          },
+          {
+            "type": "DrawGlowRegion",
+            "color": "768397",
           }
         ]
     },
