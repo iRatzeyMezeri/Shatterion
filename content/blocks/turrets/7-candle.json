@@ -10,14 +10,14 @@
   "liquidConsumed": 0.1,
   "size": 2,
   "health": 460,
-  "range": 160,
+  "range": 80,
   "inaccuracy": 0,
   "recoil": 0,
   "rotateSpeed": 10,
-  "shootSound": "sap",
+  "shootSound": "flame",
   "shoot": {
-    "shots": 2,
-    "shotDelay": 7
+    "shots": 3,
+    "spread": 15
   },
   "hasLiquids": true,
   "liquidCapacity": 80,
@@ -26,10 +26,10 @@
       "type": "ContinuousFlameBulletType",
       "colors": ["c755a050", "df80b6aa", "ecbad7", "ffe1f2", "ffffff"],
       "drawFlare": false,
-      "length": 160,
-      "damage": 20,
+      "length": 80,
+      "damage": 24,
       "knockback": 0,
-      "width": 6,
+      "width": 3,
       "lifetime": 60,
     }
   },
