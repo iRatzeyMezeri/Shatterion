@@ -8,6 +8,42 @@
     "s-silicon/48",
     "palladium/48"
   ],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 2.4,
+        "color": "ecbad7"
+      },
+      {
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 2.2,
+        "color": "ffe1f2"
+      },
+      {
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 1.2,
+        "color": "ecbad7"
+      },
+      {
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 1,
+        "color": "ffe1f2"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "color": "ecbad7",
+      }
+    ]
+  },
   "size": 2,
   "heatOutput": 8,
   "regionRotated1": 1,
