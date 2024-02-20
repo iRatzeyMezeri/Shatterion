@@ -1,0 +1,23 @@
+{
+  "name": "Fusion Heater",
+  "description": "Uses ozone to produce heat",
+  "type": "HeatProducer",
+  "requirements": [
+    "blast-alloy/48",
+    "s-metaglass/48",
+    "s-silicon/48",
+    "palladium/48"
+  ],
+  "size": 2,
+  "heatOutput": 8,
+  "regionRotated1": 1,
+  "ambientSound": "electricHum",
+  "consumes": {
+    "liquid": {
+      "liquid": "s-ozone",
+      "amount": 0.1
+    }
+  },
+  "research": "2-engine-heater",
+  "category": "crafting"
+}
