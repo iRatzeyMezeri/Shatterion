@@ -21,7 +21,7 @@
             "type": "DrawLiquidOutputs"
           },
           {
-            "type": "DrawLiquidTile",
+            "type": "DrawLiquidRegion",
             "drawLiquid": "s-water"
             "alpha": 2
           }
