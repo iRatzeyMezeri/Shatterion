@@ -15,10 +15,6 @@
   "recoil": 0,
   "rotateSpeed": 10,
   "shootSound": "flame",
-  "shoot": {
-    "shots": 3,
-    "spread": 15
-  },
   "hasLiquids": true,
   "liquidCapacity": 80,
   "ammoTypes": {
