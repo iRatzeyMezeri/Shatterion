@@ -1,0 +1,43 @@
+{
+  "type": "ContinuousLiquidTurret",
+  "name": "Candle",
+  "description": "A small turret for excess ozone",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 2,
+  "health": 460,
+  "range": 160,
+  "inaccuracy": 0,
+  "recoil": 14,
+  "rotateSpeed": 10,
+  "shootSound": "sap",
+  "shoot": {
+    "shots": 2,
+    "shotDelay": 7
+  },
+  "hasLiquids": true,
+  "liquidCapacity": 80,
+  "ammoTypes": {
+    "construct-string": {
+      "type": "ContinuousFlameBulletType",
+      "colors": ["c755a050", "df80b6aa", "ecbad7", "ffe1f2", "ffffff"],
+      "drawFlare": false,
+      "length": 160,
+      "damage": 20,
+      "knockback": 0,
+      "width": 6,
+      "lifetime": 60,
+    }
+  },
+  "requirements": [
+    "ozonate/60",
+    "s-silicon/60",
+    "rhodium/60",
+    "scarrium/60"
+  ],
+  "category": "turret",
+  "research": "6-subdue"
+}
