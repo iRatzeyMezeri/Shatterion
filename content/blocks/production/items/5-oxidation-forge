@@ -1,0 +1,48 @@
+{
+    "name": "Oxidation Forge",
+    "description": "Uses pressurized Ozone and Palladium to make Ozonate",
+    "type": "GenericCrafter",
+    "outputItems": [
+      "ozonate/1"
+    ],
+    "consumes": {
+        "power": 8,
+        "liquids": [
+          "s-ozone/0.1"
+        ]
+        "items": [
+          "palladium/3"
+        ]
+    },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+            "type": "DrawDefault",
+            },
+            {
+            "type": "DrawGlowRegion"
+            },
+            {
+            "type": "DrawShape",
+            "sides": 6,
+            "color": "888888"
+            }
+        ]
+    },
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "liquidCapacity": 80,
+    "craftTime": 60,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "2-reinforced-glass-smelter",
+    "requirements": [
+      "s-silicon/120",
+      "rhodium/120",
+      "blast-alloy/64",
+      "palladium/24"
+    ],
+}
