@@ -8,7 +8,7 @@
     "basePrefix": "metallic-"
   },
   "size": 2,
-  "ammoPerShot": 0.1
+  "ammoPerShot": 6
   "health": 460,
   "reload": 50,
   "range": 160,
