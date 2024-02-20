@@ -18,6 +18,7 @@
       {
         "type": "DrawShape"
         "sides": 4,
+        "radius": 4,
         "color": "89cac8"
       }
     ]
