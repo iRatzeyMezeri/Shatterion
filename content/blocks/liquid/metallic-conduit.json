@@ -4,6 +4,7 @@
   "name": "Metallic Conduit",
   "descriptions": "A simple conduit for liquids",
   "health": 120,
+  "leaks": true,
   "junctionReplacement": "metallic-conduit-junction",
   "bridgeReplacement": "metallic-conduit-bridge",
   "research": "core-particle",
