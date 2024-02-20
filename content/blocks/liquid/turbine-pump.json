@@ -3,7 +3,7 @@
   "description": "A simple liquid pump. Requires power",
   "type": "Pump",
   "size": 2,
-  "pumpAmount": 0.2,
+  "pumpAmount": 0.04,
   "OutputsLiquid": true,
   "consumes": {
     "power": 1
