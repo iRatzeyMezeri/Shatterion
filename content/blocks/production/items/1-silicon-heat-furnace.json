@@ -2,6 +2,7 @@
     "name": "Silicon Heat Furnace",
     "description": "Heats up sand to create pure silicon",
     "type": "HeatCrafter",
+    "health": 320,
     "outputItem": {"item": "s-silicon", "amount": 1},
     "consumes": {
         "power": 2.4,
