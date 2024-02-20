@@ -34,9 +34,7 @@
       "ionic-fluid/0.2"
     ],
   },
-  "outputLiquids": [
-    "hydrogen/0.2"
-  ],
+  "outputLiquid": "s-hydrogen/0.2",
   "requirements": [
     "ozonate/80",
     "blast-alloy/120",
