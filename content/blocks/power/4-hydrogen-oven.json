@@ -50,6 +50,10 @@
         "square": true,
         "radiusScl": 1.2,
         "color": "def2f1"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "color": "bee8e7",
       }
     ]
   },
