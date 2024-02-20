@@ -8,6 +8,7 @@
     "basePrefix": "metallic-"
   },
   "size": 2,
+  "liquidConsumed": 0.1
   "health": 460,
   "reload": 50,
   "range": 160,
@@ -25,7 +26,7 @@
     "s-hydrogen": {
       "type": "BasicBulletType",
         "sprite": "circle",
-        "ammoMultiplier": 1,
+        "ammoMultiplier": 2,
         "damage": 80,
         "pierce": true,
         "pierceBuilding": true,
