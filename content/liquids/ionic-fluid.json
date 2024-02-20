@@ -5,7 +5,7 @@
     "viscosity": 0.5,
     "explosiveness": 0,
     "heatCapacity": 0.4,
-    "color": "ffffff",
+    "color": "4c8aed",
     "research": "rhodic-fluid",
     "description": "Rhodic fluid carrying a lot of electric charge"
 }
