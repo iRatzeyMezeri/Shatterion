@@ -19,7 +19,8 @@
             "type": "DrawDefault",
             },
             {
-            "type": "DrawFlame",
+            "type": "DrawRegion",
+            "suffix": "-top",
             }
         ]
     },
