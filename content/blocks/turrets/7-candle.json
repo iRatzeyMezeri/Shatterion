@@ -11,7 +11,7 @@
   "health": 460,
   "range": 160,
   "inaccuracy": 0,
-  "recoil": 14,
+  "recoil": 0,
   "rotateSpeed": 10,
   "shootSound": "sap",
   "shoot": {
