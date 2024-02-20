@@ -1,0 +1,84 @@
+{
+  "type": "LiquidTurret",
+  "name": "Subdue",
+  "description": "A small turret for excess hydrogen",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 2,
+  "health": 460,
+  "reload": 50,
+  "range": 160,
+  "inaccuracy": 0,
+  "recoil": 14,
+  "rotateSpeed": 10,
+  "shootSound": "sap",
+  "shoot": {
+    "shots": 2,
+    "shotDelay": 7
+  },
+  "ammoTypes": {
+    "s-hydrogen": {
+      "type": "BasicBulletType",
+        "sprite": "circle",
+        "ammoMultiplier": 1,
+        "damage": 80,
+        "pierce": true,
+        "pierceBuilding": true,
+        "speed": 4,
+        "width": 2,
+        "height": 3,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 1,
+          "lightColor": "89cac8",
+          "colorFrom": "89cac8",
+          "colorTo": "62a7a4"
+        },
+        "despawnEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 1,
+          "sizeTo": 0,
+          "lightColor": "89cac8",
+          "colorFrom": "89cac8",
+          "colorTo": "62a7a4"
+        },
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 3,
+          "lightColor": "bee8e7",
+          "colorFrom": "bee8e7",
+          "colorTo": "62a7a4"
+        },
+        "lifetime": 40,
+        "lightColor": "bee8e7",
+        "colorFrom": "bee8e7",
+        "colorTo": "62a7a4"
+      }
+    },
+  "requirements": [
+    "ozonate/60",
+    "s-silicon/60",
+    "rhodium/60",
+    "scarrium/60"
+  ],
+  "category": "turret",
+  "research": "1-cast"
+}
