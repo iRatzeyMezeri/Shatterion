@@ -1,0 +1,40 @@
+{
+    "name": "Ioniser",
+    "description": "Uses energy to ionise rhodic fluid",
+    "type": "GenericCrafter",
+    "outputLiquids": [
+      "ionic-fluid/24"
+    ],
+    "consumes": {
+        "power": 5,
+        "liquids": [
+          "rhodic-fluid/96"
+        ]
+    },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+            "type": "DrawDefault",
+            },
+            {
+            "type": "DrawFlame",
+            }
+        ]
+    },
+    "size": 3,
+    "hasPower": true,
+    "hasItems": false,
+    "hasLiquids": true,
+    "liquidCapacity": 80,
+    "craftTime": 60,
+    "updateEffect": "pulverize",
+    "category": "crafting",
+    "research": "4-electrolysis-chamber",
+    "requirements": [
+      "s-silicon/160",
+      "ozonate/100",
+      "blast-alloy/80",
+      "s-metaglass/80"
+    ],
+}
