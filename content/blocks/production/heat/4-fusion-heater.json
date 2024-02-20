@@ -15,6 +15,9 @@
         "type": "DrawDefault"
       },
       {
+        "type": "DrawHeatOutput"
+      },
+      {
         "type": "DrawPulseShape",
         "square": true,
         "radiusScl": 2.4,
@@ -45,7 +48,7 @@
     ]
   },
   "size": 2,
-  "heatOutput": 8,
+  "heatOutput": 6,
   "regionRotated1": 1,
   "ambientSound": "electricHum",
   "consumes": {
