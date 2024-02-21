@@ -5,6 +5,12 @@
   "hasPower": true,
   "hasLiquids": true,
   "liquidCapacity": 40,
+  "consumes": {
+    "power": 4,
+    "liquids": [
+      "s-hydrogen/0.2"
+    ]
+  },
   "size": 3,
   "tier": 4,
   "drillTime": 380,
