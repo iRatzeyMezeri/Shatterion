@@ -33,13 +33,6 @@
                 "color": "c755a0"
             },
             {
-                "type": "DrawShape",
-                "layer": 103,
-                "radius": 6,
-                "sides": 6,
-                "color": "ecbad7"
-            },
-            {
                 "type": "DrawCircles",
                 "color": "ecbad7",
                 "amount": 1,
