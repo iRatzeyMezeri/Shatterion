@@ -2,10 +2,10 @@
     "type": "liquid",
     "name": "Ozone",
     "gas": true,
-    "flammability": 1,
+    "flammability": 0.6,
     "viscosity": 0,
-    "explosiveness": 0.6,
-    "heatCapacity": 0.6,
+    "explosiveness": 0.3,
+    "heatCapacity": 0.4,
     "color": "c755a0",
     "research": "s-water",
     "description": "Ozone in its pure form"
