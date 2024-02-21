@@ -16,16 +16,16 @@
         "type": "DrawDefault"
       },
       {
-        "type": "DrawFlame"
-      },
-      {
-        "type": "DrawPulseShape",
-        "radiusScl": 4,
-        "color": "ffffff"
+        "type": "DrawShape",
+        "sides": 4,
+        "color": "4c8aed",
+        "layer": 101
+        "radius": 7,
       },
       {
         "type": "DrawGlowRegion",
-        "color": "ffffff",
+        "color": "6cc7eb",
+        "layer": 102
       }
     ]
   },
