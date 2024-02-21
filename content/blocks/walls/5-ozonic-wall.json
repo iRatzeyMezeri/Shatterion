@@ -1,5 +1,6 @@
 {
   "name": "Ozonic Wall",
+  "absorbLasers": true,
   "description": "A defensive wall made of Ozonate. Absorbs lasers",
   "type": "Wall",
   "health": 880,
