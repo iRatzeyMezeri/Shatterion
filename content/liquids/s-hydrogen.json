@@ -4,7 +4,7 @@
     "gas": true,
     "flammability": 0.4,
     "viscosity": 0,
-    "explosiveness": 1,
+    "explosiveness": 0.6,
     "heatCapacity": 0.4,
     "color": "62a7a4",
     "research": "s-water",
