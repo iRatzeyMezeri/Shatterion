@@ -1,0 +1,6 @@
+{
+  "name": "Zircon Shale",
+  "type": "Floor",
+  "variants": 2,
+  "wall": "zircon-shale-wall"
+}
