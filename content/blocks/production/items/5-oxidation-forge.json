@@ -19,15 +19,22 @@
         "type": "DrawMulti",
         "drawers": [
             {
-            "type": "DrawDefault",
+                "type": "DrawDefault",
             },
             {
-            "type": "DrawGlowRegion"
+                "type": "DrawGlowRegion"
             },
             {
-            "type": "DrawShape",
-            "sides": 6,
-            "color": "888888"
+                "type": "DrawShape",
+                "sides": 6,
+                "color": "c755a0"
+            },
+            {
+                "type": "DrawCircles",
+                "color": "ecbad7",
+                "amount": 5,
+                "radius": 5,
+                "radiusOffset": 2,
             }
         ]
     },
