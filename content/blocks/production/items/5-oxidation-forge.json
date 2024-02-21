@@ -23,7 +23,7 @@
             },
             {
                 "type": "DrawGlowRegion"
-                "layer": 14
+                "layer": 104
             },
             {
                 "type": "DrawShape",
