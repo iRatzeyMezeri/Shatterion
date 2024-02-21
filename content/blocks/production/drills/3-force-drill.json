@@ -1,0 +1,19 @@
+{
+  "name": "Force Drill",
+  "description": "A larger and stronger drill, rewuires power and hydrogen",
+  "type": "Drill",
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 40,
+  "size": 3,
+  "tier": 4,
+  "drillTime": 380,
+  "requirements": [
+    "ozonate/60",
+    "blast-alloy/60",
+    "palladium/20",
+    "s-silicon/32"
+  ],
+  "category": "production",
+  "research": "2-turbine-drill"
+}
