@@ -9,6 +9,7 @@
   },
   "liquidConsumed": 0.1,
   "size": 2,
+  "shootY": 2,
   "health": 460,
   "range": 80,
   "inaccuracy": 0,
