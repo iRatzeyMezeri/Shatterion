@@ -23,18 +23,18 @@
             },
             {
                 "type": "DrawGlowRegion"
-                "layer": 4
+                "layer": 14
             },
             {
                 "type": "DrawShape",
-                "layer": 2,
+                "layer": 12,
                 "radius": 14,
                 "sides": 6,
                 "color": "c755a0"
             },
             {
                 "type": "DrawShape",
-                "layer": 3,
+                "layer": 13,
                 "radius": 12,
                 "sides": 6,
                 "color": "ecbad7"
