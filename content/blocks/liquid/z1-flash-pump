@@ -1,0 +1,24 @@
+{
+  "name": "Flash Pump",
+  "description": "A basic liquid pump. Requires power and hydrogen",
+  "type": "Pump",
+  "size": 2,
+  "pumpAmount": 0.6,
+  "OutputsLiquid": true,
+  "consumes": {
+    "power": 3,
+    "liquids": [
+      "s-hydrogen/0.2"
+    ]
+  },
+  "liquidCapacity": 180,
+  "category": "liquid",
+  "requirements": [
+    "s-metaglass/64",
+    "s-silicon/48",
+    "blast-alloy/48",
+    "palladium/24"
+  ],
+  "researchCostMultiplier": 0.2,
+  "research": "turbine-pump"
+}
