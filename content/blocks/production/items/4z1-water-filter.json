@@ -19,8 +19,8 @@
             "type": "DrawDefault",
             },
             {
-            "type": "DrawRegion",
-            "suffix": "-top",
+            "type": "DrawFlame",
+            "flameRadius": 0,
             }
         ]
     },
