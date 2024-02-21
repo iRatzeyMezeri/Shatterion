@@ -23,7 +23,7 @@
       "colors": ["c755a050", "df80b6aa", "ecbad7", "ffe1f2", "ffffff"],
       "drawFlare": false,
       "length": 80,
-      "damage": 24,
+      "damage": 20,
       "knockback": 0,
       "width": 3,
       "lifetime": 60,
