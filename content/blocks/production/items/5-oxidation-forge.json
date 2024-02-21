@@ -23,18 +23,27 @@
             },
             {
                 "type": "DrawGlowRegion"
+                "layer": 4
             },
             {
                 "type": "DrawShape",
+                "layer": 2,
+                "radius": 14,
                 "sides": 6,
                 "color": "c755a0"
             },
             {
+                "type": "DrawShape",
+                "layer": 3,
+                "radius": 12,
+                "sides": 6,
+                "color": "ecbad7"
+            },
+            {
                 "type": "DrawCircles",
                 "color": "ecbad7",
-                "amount": 5,
-                "radius": 5,
-                "radiusOffset": 2,
+                "amount": 1,
+                "radius": 30,
             }
         ]
     },
