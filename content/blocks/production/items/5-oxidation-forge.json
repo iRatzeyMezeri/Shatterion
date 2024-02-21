@@ -27,15 +27,15 @@
             },
             {
                 "type": "DrawShape",
-                "layer": 12,
-                "radius": 14,
+                "layer": 102,
+                "radius": 7,
                 "sides": 6,
                 "color": "c755a0"
             },
             {
                 "type": "DrawShape",
-                "layer": 13,
-                "radius": 12,
+                "layer": 103,
+                "radius": 6,
                 "sides": 6,
                 "color": "ecbad7"
             },
