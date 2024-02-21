@@ -1,0 +1,12 @@
+{
+  "name": "Ozonic Wall",
+  "description": "A defensive wall made of Ozonate. Absorbs lasers",
+  "type": "Wall",
+  "health": 880,
+  "size": 1,
+  "requirements": [
+    "ozonate/6"
+  ],
+  "category": "defense",
+  "research": "2-compound-wall"
+}
