@@ -20,12 +20,13 @@
     "shots": 3,
     "shotDelay": 10
   },
+  "ammoPerShot": 3,
   "ammoTypes": {
     "s-silicon": {
       "type": "basicBulletType",
         "sprite": "circle",
         "ammoMultiplier": 1,
-        "damage": 140,
+        "damage": 120,
         "pierce": true,
         "pierceBuilding": true,
         "speed": 4,
