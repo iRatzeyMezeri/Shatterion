@@ -16,10 +16,15 @@
         "type": "DrawMulti",
         "drawers": [
             {
-            "type": "DrawDefault",
+                "type": "DrawDefault",
             },
             {
-            "type": "DrawFlame",
+                "type": "DrawGlowRegion",
+            },
+            {
+                "type": "DrawCrucibleFlame",
+                "flameColor": "6cc7ebaa",
+                "midColor": "6cc7ebaa",
             }
         ]
     },
