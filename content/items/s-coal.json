@@ -5,5 +5,6 @@
   "name": "Coal",
   "description": "A simple burnable rock"
   "color": "221e1e",
-  "research": "palladium"
+  "research": "palladium",
+  "flammability": 0.8
 }
