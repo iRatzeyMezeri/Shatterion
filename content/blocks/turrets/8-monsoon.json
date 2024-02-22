@@ -1,0 +1,87 @@
+{
+  "type": "LiquidTurret",
+  "name": "Monsoon",
+  "description": "A large liquid turret that spreads rhodium",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
+  "size": 4,
+  "health": 780,
+  "reload": 3,
+  "range": 130,
+  "inaccuracy": 25,
+  "recoil": 1,
+  "rotateSpeed": 10,
+  "shootSound": "sap",
+  "ammoTypes": {
+    "rhodic-fluid": {
+      "type": "basicBulletType",
+        "sprite": "monsoon-projectile",
+        "ammoMultiplier": 10,
+        "damage": 80,
+        "pierce": true,
+        "pierceBuilding": true,
+        "status": "tarred",
+        "statusDuration": 240,
+        "speed": 1.3,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 1,
+        "height": 1,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "monsoon-projectile",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 1,
+          "lightColor": "424255",
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
+        },
+        "despawnEffect": {
+          "type": "ParticleEffect",
+          "sprite": "monsoon-projectile",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 1,
+          "sizeTo": 0,
+          "lightColor": "424255",
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
+        },
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "sprite": "monsoon-projectile",
+          "particles": 1,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 3,
+          "sizeTo": 3,
+          "lightColor": "424255",
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
+        },
+        "lifetime": 100,
+        "shrinkX": 2,
+        "shrinkY": 2,
+        "lightColor": "424255",
+        "colorFrom": "ffffff",
+        "colorTo": "ffffff"
+      }
+    },
+  "requirements": [
+    "blast-alloy/180",
+    "s-silicon/80",
+    "s-metaglass/60",
+    "rhodium/60",
+    "scarrium/120"
+  ],
+  "category": "turret",
+  "research": "7-candle"
+}
