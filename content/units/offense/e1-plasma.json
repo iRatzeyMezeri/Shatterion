@@ -1,13 +1,12 @@
 {
   "name": "Plasma",
-  "description": "A basic Starpoint class spider unit with 2 flamethrowers",
-  "type": "legs",
-  "legCount": "6",
+  "description": "A basic tank unit with 2 flamethrowers",
+  "type": "tank",
   "outlineColor": "00000000",
   "flying": false,
   "speed": 0.5,
-  "hitSize": 12,
-  "health": 820,
+  "hitSize": 8,
+  "health": 330,
   "weapons": [
     {
       "name": "flamekeeper",
@@ -21,7 +20,7 @@
       "bullet": {
         "type": "basicBulletType",
         "sprite": "circle",
-        "damage": 30,
+        "damage": 15,
         "pierce": true,
         "pierceBuilding": true,
         "speed": 1,
@@ -38,9 +37,9 @@
           "length": 5,
           "sizeFrom": 3,
           "sizeTo": 1,
-          "lightColor": "6cc7eb",
-          "colorFrom": "6cc7eb",
-          "colorTo": "4c5dc2"
+          "lightColor": "ffe880",
+          "colorFrom": "ffe880",
+          "colorTo": "de712a"
         },
         "despawnEffect": {
           "type": "ParticleEffect",
@@ -50,9 +49,9 @@
           "length": 5,
           "sizeFrom": 1,
           "sizeTo": 0,
-          "lightColor": "4c8aed",
-          "colorFrom": "4c8aed",
-          "colorTo": "4c5dc2"
+          "lightColor": "f7b03e",
+          "colorFrom": "f7b03e",
+          "colorTo": "de712a"
         },
         "shootEffect": {
           "type": "ParticleEffect",
@@ -62,16 +61,16 @@
           "length": 5,
           "sizeFrom": 3,
           "sizeTo": 3,
-          "lightColor": "dbffe3",
-          "colorFrom": "dbffe3",
-          "colorTo": "4c5dc2"
+          "lightColor": "f7ffc9",
+          "colorFrom": "f7ffc9",
+          "colorTo": "de712a"
         },
         "lifetime": 30,
         "shrinkX": 2,
         "shrinkY": 2,
-        "lightColor": "dbffe3",
-        "colorFrom": "dbffe3",
-        "colorTo": "4c5dc2"
+        "lightColor": "f7ffc9",
+        "colorFrom": "f7ffc9",
+        "colorTo": "de712a"
       }
     }
   ]
