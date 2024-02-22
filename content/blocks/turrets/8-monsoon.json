@@ -7,6 +7,7 @@
     "type": "DrawTurret",
     "basePrefix": "metallic-"
   },
+  "liquidConsumed": 1,
   "size": 4,
   "health": 780,
   "reload": 3,
