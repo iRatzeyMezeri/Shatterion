@@ -7,6 +7,10 @@
   "speed": 0.5,
   "hitSize": 8,
   "health": 330,
+  "omniMovement": false,
+  "rotateSpeed": 3,
+  "faceTarget": true,
+  "treadPullOffset": 8,
   "weapons": [
     {
       "name": "flamekeeper",
