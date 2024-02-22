@@ -77,7 +77,7 @@
       }
     },
   "requirements": [
-    "ozonate/60",
+    "blast-alloy/60",
     "s-silicon/60",
     "rhodium/60",
     "scarrium/60"
