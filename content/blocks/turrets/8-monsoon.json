@@ -41,8 +41,8 @@
           "sizeFrom": 3,
           "sizeTo": 1,
           "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
         },
         "despawnEffect": {
           "type": "ParticleEffect",
@@ -53,8 +53,8 @@
           "sizeFrom": 1,
           "sizeTo": 0,
           "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
         },
         "shootEffect": {
           "type": "ParticleEffect",
@@ -65,15 +65,15 @@
           "sizeFrom": 3,
           "sizeTo": 3,
           "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff"
         },
         "lifetime": 100,
         "shrinkX": 2,
         "shrinkY": 2,
         "lightColor": "424255",
-        "colorFrom": "ffffff00",
-        "colorTo": "ffffff00"
+        "colorFrom": "ffffff",
+        "colorTo": "ffffff"
       }
     },
   "requirements": [
