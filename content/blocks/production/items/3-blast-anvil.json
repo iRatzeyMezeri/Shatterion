@@ -44,7 +44,7 @@
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
     "category": "crafting",
-    "research": "2-silicon-heat-furnace",
+    "research": "1-silicon-heat-furnace",
     "requirements": [
       "rhodium/320",
       "s-silicon/240",
