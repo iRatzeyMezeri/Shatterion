@@ -9,7 +9,7 @@
   "health": 520,
   "omniMovement": false,
   "rotateSpeed": 3,
-  "faceTarget": true,
+  "faceTarget": false,
   "treadPullOffset": 8,
   "weapons": [
     {
