@@ -1,7 +1,7 @@
 {
   "type": "LiquidTurret",
   "name": "Monsoon",
-  "description": "A large liquid turret that spreads rhodium",
+  "description": "A large liquid turret that spreads rhodic fluid",
   "outlineIcon": false,
   "drawer": {
     "type": "DrawTurret",
