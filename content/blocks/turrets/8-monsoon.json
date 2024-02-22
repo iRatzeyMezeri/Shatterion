@@ -19,7 +19,7 @@
   "ammoTypes": {
     "rhodic-fluid": {
       "type": "basicBulletType",
-        "sprite": "monsoon-projectile",
+        "sprite": "shatterion-monsoon-projectile",
         "ammoMultiplier": 10,
         "damage": 80,
         "pierce": true,
@@ -34,7 +34,7 @@
         "trailChance": 1,
         "trailEffect": {
           "type": "ParticleEffect",
-          "sprite": "monsoon-projectile",
+          "sprite": "shatterion-monsoon-projectile",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
@@ -46,7 +46,7 @@
         },
         "despawnEffect": {
           "type": "ParticleEffect",
-          "sprite": "monsoon-projectile",
+          "sprite": "shatterion-monsoon-projectile",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
@@ -58,7 +58,7 @@
         },
         "shootEffect": {
           "type": "ParticleEffect",
-          "sprite": "monsoon-projectile",
+          "sprite": "shatterion-monsoon-projectile",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
