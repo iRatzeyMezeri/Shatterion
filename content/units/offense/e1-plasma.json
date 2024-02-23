@@ -17,7 +17,7 @@
       "rotate": true,
       "top": true,
       "shootY": 0,
-      "shootX": 5,
+      "shootX": 0,
       "reload": 3,
       "inaccuracy": 12,
       "mirror": false,
