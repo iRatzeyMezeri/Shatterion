@@ -16,7 +16,7 @@
       "name": "flamekeeper",
       "rotate": true,
       "top": true,
-      "y": 3,
+      "y": 6,
       "x": 0,
       "reload": 3,
       "inaccuracy": 12,
