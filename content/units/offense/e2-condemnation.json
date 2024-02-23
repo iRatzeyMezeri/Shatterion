@@ -1,0 +1,224 @@
+{
+  "name": "Condemnation",
+  "description": "A tier 2 tank unit with a large cannon",
+  "type": "tank",
+  "outlineColor": "00000000",
+  "flying": false,
+  "speed": 0.6,
+  "hitSize": 16,
+  "health": 1120,
+  "omniMovement": false,
+  "rotateSpeed": 2,
+  "faceTarget": true,
+  "treadPullOffset": 8,
+  "weapons": [
+    {
+      "name": "fire-judge",
+      "rotate": true,
+      "top": true,
+      "y": 9,
+      "x": 0,
+      "reload": 70,
+      "inaccuracy": 0,
+      "mirror": false,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "basicBulletType",
+        "sprite": "circle",
+        "damage": 220,
+        "splashDamage": 800,
+        "splashDamageRadius": 15,
+        "pierce": true,
+        "pierceBuilding": true,
+        "speed": 0.3,
+        "shrinkY": 0,
+        "shrinkX": 0,
+        "width": 6,
+        "height": 6,
+        "trailColor": "dce8a9",
+        "trailLength": 20,
+        "trailWidth": 6,
+        "trailChance": 1,
+        "trailEffect": {
+          "type": "ParticleEffect",
+          "sprite": "circle",
+          "particles": 2,
+          "lifetime": 15,
+          "length": 5,
+          "sizeFrom": 4,
+          "sizeTo": 2,
+          "lightColor": "ffe880",
+          "colorFrom": "ffe880",
+          "colorTo": "de712a"
+        },
+        "despawnEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 30,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "f7b03e",
+              "colorFrom": "f7b03e",
+              "colorTo": "de712a"
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "speed": 4,
+              "particles": 12,
+              "length": 5,
+              "lifetime": 20,
+              "cone": -360,
+              "lightColor": "f7b03e",
+              "colorFrom": "f7b03e",
+              "colorTo": "de712a"
+              "lenFrom": 5,
+              "lenTo": 2
+              },
+          ]
+        },
+        "hitEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "lifetime": 40,
+              "sizeFrom": 0,
+              "sizeTo": 30,
+              "strokeFrom": 3,
+              "strokeTo": 0,
+              "lightColor": "f7b03e",
+              "colorFrom": "f7b03e",
+              "colorTo": "de712a"
+            },
+            {
+              "type": "ParticleEffect",
+              "line": true,
+              "speed": 4,
+              "particles": 12,
+              "length": 5,
+              "lifetime": 20,
+              "cone": -360,
+              "lightColor": "f7b03e",
+              "colorFrom": "f7b03e",
+              "colorTo": "de712a"
+              "lenFrom": 5,
+              "lenTo": 2
+              },
+          ]
+        },
+        "shootEffect": {
+          "type": "ParticleEffect",
+          "line": true,
+          "particles": 10,
+          "cone": 80,
+          "lifetime": 15,
+          "length": 5,
+          "lightColor": "f7ffc9",
+          "colorFrom": "f7ffc9",
+          "colorTo": "de712a"
+        },
+        "lifetime": 240,
+        "lightColor": "f7ffc9",
+        "colorFrom": "f7ffc9",
+        "colorTo": "de712a",
+        "fragBullet": {
+          "type": "basicBulletType",
+          "sprite": "circle",
+          "damage": 220,
+          "splashDamage": 800,
+          "splashDamageRadius": 15,
+          "pierce": true,
+          "pierceBuilding": true,
+          "speed": 0.8,
+          "shrinkY": 0,
+          "shrinkX": 0,
+          "width": 3,
+          "height": 3,
+          "trailColor": "dce8a9",
+          "trailLength": 20,
+          "trailWidth": 6,
+          "trailChance": 1,
+          "despawnEffect": {
+            "type": "MultiEffect",
+            "effects": [
+              {
+                "type": "WaveEffect",
+                "lifetime": 40,
+                "sizeFrom": 0,
+                "sizeTo": 20,
+                "strokeFrom": 3,
+                "strokeTo": 0,
+                "lightColor": "f7b03e",
+                "colorFrom": "f7b03e",
+                "colorTo": "de712a"
+              },
+              {
+                "type": "ParticleEffect",
+                "line": true,
+                "speed": 4,
+                "particles": 12,
+                "length": 5,
+                "lifetime": 20,
+                "cone": -360,
+                "lightColor": "f7b03e",
+                "colorFrom": "f7b03e",
+                "colorTo": "de712a"
+                "lenFrom": 5,
+                "lenTo": 2
+                },
+            ]
+          },
+          "hitEffect": {
+            "type": "MultiEffect",
+            "effects": [
+              {
+                "type": "WaveEffect",
+                "lifetime": 40,
+                "sizeFrom": 0,
+                "sizeTo": 30,
+                "strokeFrom": 3,
+                "strokeTo": 0,
+                "lightColor": "f7b03e",
+                "colorFrom": "f7b03e",
+                "colorTo": "de712a"
+              },
+              {
+                "type": "ParticleEffect",
+                "line": true,
+                "speed": 4,
+                "particles": 12,
+                "length": 5,
+                "lifetime": 20,
+                "cone": -360,
+                "lightColor": "f7b03e",
+                "colorFrom": "f7b03e",
+                "colorTo": "de712a"
+                "lenFrom": 5,
+                "lenTo": 2
+                },
+            ]
+          },
+          "shootEffect": {
+            "type": "ParticleEffect",
+            "line": true,
+            "particles": 10,
+            "cone": 80,
+            "lifetime": 15,
+            "length": 5,
+            "lightColor": "f7ffc9",
+            "colorFrom": "f7ffc9",
+            "colorTo": "de712a"
+          },
+          "lifetime": 40,
+          "lightColor": "f7ffc9",
+          "colorFrom": "f7ffc9",
+          "colorTo": "de712a"
+      }
+    }
+  ]
+}
