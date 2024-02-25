@@ -1,20 +1,23 @@
 // permanently borrowed from Exogenesis retaliator
 {
   "name": "Breakthrough",
-  "description": "The simplest turret made from blast alloy. Requires power",
+  "description": "The simplest turret made from blast alloy. Requires power and heat",
   "outlineIcon": false,
   "drawer": {
     "type": "DrawTurret",
     "basePrefix": "metallic-"
   },
   "type": "PowerTurret",
+  "heatRequirement": 4,
   "reload": 60,
   "range": 180,
   "shootCone": 90,
   "inaccuracy": 10,
   "recoilAmount": 4,
   "size": 4,
-  "health": 680,
+  "pierce": false,
+  "pierceBuildings": false,
+  "health": 720,
   "shoot": {
     "shots": 8
   },
@@ -26,7 +29,29 @@
     "type": "EmpBulletType",
     "speed": 6,
     "spin": 8,
+    "shootEffect": {
+      "type": "WaveEffect",
+      "lifetime": 40,
+      "sizeFrom": 0,
+      "sizeTo": 8,
+      "strokeFrom": 2,
+      "strokeTo": 0,
+      "lightColor": "ffffff",
+      "colorFrom": "f7ffc9",
+      "colorTo": "f7ffc9",
+    },
     "hitEffect": {
+      "type": "WaveEffect",
+      "lifetime": 40,
+      "sizeFrom": 0,
+      "sizeTo": 5,
+      "strokeFrom": 2,
+      "strokeTo": 0,
+      "lightColor": "ffffff",
+      "colorFrom": "f7ffc9",
+      "colorTo": "f7ffc9",
+    },
+    "despawnEffect": {
       "type": "WaveEffect",
       "lifetime": 40,
       "sizeFrom": 0,
