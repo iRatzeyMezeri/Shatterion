@@ -19,7 +19,7 @@
   "ammoTypes": {
     "rhodic-fluid": {
       "type": "basicBulletType",
-        "sprite": "shatterion-monsoon-projectile",
+        "sprite": "circle",
         "ammoMultiplier": 10,
         "damage": 80,
         "pierce": true,
@@ -34,46 +34,46 @@
         "trailChance": 1,
         "trailEffect": {
           "type": "ParticleEffect",
-          "sprite": "shatterion-monsoon-projectile",
+          "sprite": "circle",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
           "sizeFrom": 3,
           "sizeTo": 1,
-          "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "lightColor": "97a9b9",
+          "colorFrom": "97a9b9",
+          "colorTo": "0a090a"
         },
         "despawnEffect": {
           "type": "ParticleEffect",
-          "sprite": "shatterion-monsoon-projectile",
+          "sprite": "circle",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
           "sizeFrom": 1,
           "sizeTo": 0,
-          "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "lightColor": "97a9b9",
+          "colorFrom": "97a9b9",
+          "colorTo": "0a090a"
         },
         "shootEffect": {
           "type": "ParticleEffect",
-          "sprite": "shatterion-monsoon-projectile",
+          "sprite": "circle",
           "particles": 1,
           "lifetime": 15,
           "length": 5,
           "sizeFrom": 3,
           "sizeTo": 3,
-          "lightColor": "424255",
-          "colorFrom": "ffffff00",
-          "colorTo": "ffffff00"
+          "lightColor": "97a9b9",
+          "colorFrom": "97a9b9",
+          "colorTo": "0a090a"
         },
         "lifetime": 100,
         "shrinkX": 2,
         "shrinkY": 2,
-        "lightColor": "424255",
-        "colorFrom": "ffffff00",
-        "colorTo": "ffffff00"
+        "lightColor": "97a9b9",
+        "colorFrom": "97a9b9",
+        "colorTo": "0a090a"
       }
     },
   "requirements": [
