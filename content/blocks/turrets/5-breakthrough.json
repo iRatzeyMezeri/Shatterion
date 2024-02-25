@@ -1,5 +1,12 @@
 // permanently borrowed from Exogenesis retaliator
 {
+  "name": "Breakthrough",
+  "description": "The simplest turret made from blast alloy. Requires power",
+  "outlineIcon": false,
+  "drawer": {
+    "type": "DrawTurret",
+    "basePrefix": "metallic-"
+  },
   "type": "PowerTurret",
   "reload": 60,
   "range": 180,
