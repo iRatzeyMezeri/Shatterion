@@ -10,7 +10,7 @@
   "type": "PowerTurret",
   "reload": 60,
   "range": 180,
-  "shootCone": 60,
+  "shootCone": 90,
   "inaccuracy": 10,
   "recoilAmount": 4,
   "size": 4,
@@ -20,7 +20,7 @@
   },
   "shootSound": "sap",
   "consumes": {
-    "power": 2
+    "power": 4
   },
   "shootType": {
     "type": "EmpBulletType",
@@ -44,10 +44,10 @@
     "sprite": "ring-item"
   },
   "requirements": [
-    "blast-alloy/120",
-    "s-silicon/80",
-    "palladium/80",
-    "scarrium/120"
+    "blast-alloy/180",
+    "s-silicon/140",
+    "palladium/140",
+    "scarrium/180"
   ],
   "category": "turret",
   "research": "3-electrocute"
