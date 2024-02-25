@@ -16,11 +16,13 @@
   "recoil": 1,
   "rotateSpeed": 10,
   "shootSound": "sap",
+  "shoot": {
+    "shots": 2,
+  },
   "ammoTypes": {
     "rhodic-fluid": {
       "type": "basicBulletType",
         "sprite": "circle",
-        "ammoMultiplier": 10,
         "damage": 80,
         "pierce": true,
         "pierceBuilding": true,
