@@ -41,7 +41,7 @@
     "liquidCapacity": 80,
     "itemCapacity": 20,
     "heatRequirement": 8,
-    "craftTime": 60,
+    "craftTime": 90,
     "updateEffect": "smeltsmoke",
     "category": "crafting",
     "research": "1-silicon-heat-furnace",
