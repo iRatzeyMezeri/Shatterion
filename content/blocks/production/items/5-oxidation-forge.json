@@ -45,7 +45,7 @@
     "hasItems": true,
     "hasLiquids": true,
     "liquidCapacity": 80,
-    "craftTime": 60,
+    "craftTime": 150,
     "updateEffect": "pulverize",
     "category": "crafting",
     "research": "2-reinforced-glass-smelter",
