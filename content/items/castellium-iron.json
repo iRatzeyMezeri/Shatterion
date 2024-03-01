@@ -1,0 +1,8 @@
+{
+  "cost": 0.4,
+  "type": "material",
+  "name": "Blast Alloy",
+  "description": "A strong material made from Silicon, Scarrium and Water. Used mostly in unit-related content"
+  "color": "59c7b8",
+  "research": "scarrium"
+}
