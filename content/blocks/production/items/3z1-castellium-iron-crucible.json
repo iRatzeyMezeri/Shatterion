@@ -1,0 +1,33 @@
+{
+    "name": "Castellium Iron Crucible",
+    "description": "Combines Scarrium, Silicon and Water into Castellium Iron",
+    "type": "HeatProducer",
+    "health": 540,
+    "outputItem": {"item": "castellium-iron", "amount": 1},
+    "consumes": {
+        "power": 3,
+        "items": [
+          "s-silicon/2",
+          "scarrium/3"
+        ],
+        "liquids": [
+          "s-water/2"
+        ]
+    },
+    "heatOutput": 6,
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "liquidCapacity": 60,
+    "itemCapacity": 30,
+    "craftTime": 30,
+    "updateEffect": "smeltsmoke",
+    "category": "crafting",
+    "research": "1-silicon-heat-furnace",
+    "requirements": [
+      "rhodium/220",
+      "s-silicon/220",
+      "s-metaglass/220"
+    ],
+}
