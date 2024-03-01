@@ -1,6 +1,6 @@
 {
   "name": "Blast Conveyor"
-  "type": "Conveyor",
+  "type": "ArmoredConveyor",
   "description": "a stronger conveyor made from Blast Alloy"
   "health": 200,
   "bridgeReplacement": "metallic-bridge",
