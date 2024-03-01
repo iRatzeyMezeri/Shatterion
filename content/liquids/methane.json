@@ -1,0 +1,13 @@
+{
+    "type": "liquid",
+    "name": "Methane",
+    "gas": true,
+    "flammability": 1.2,
+    "viscosity": 0.5,
+    "explosiveness": 1,
+    "heatCapacity": 0.5,
+    "temperature": 0.5,
+    "color": "62a7a4",
+    "research": "s-hydrogen",
+    "description": "Methane in its pure form"
+}
