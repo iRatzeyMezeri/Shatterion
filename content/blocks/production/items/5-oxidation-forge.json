@@ -51,6 +51,7 @@
     "research": "2-reinforced-glass-smelter",
     "requirements": [
       "s-silicon/120",
+      "castellium-iron/120",
       "rhodium/120",
       "blast-alloy/64",
       "palladium/24"
