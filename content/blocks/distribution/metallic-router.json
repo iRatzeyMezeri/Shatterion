@@ -5,7 +5,7 @@
   "size": 1,
   "health": 160,
   "itemCapacity": 3,
-  "speed": 8,
+  "speed": 15,
   "requirements": [
       "rhodium/3",
       "palladium/3"
