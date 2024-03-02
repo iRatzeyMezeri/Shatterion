@@ -6,7 +6,7 @@
   "pumpAmount": 0.2,
   "OutputsLiquid": true,
   "consumes": {
-    "power": 6
+    "power": 3.5
   },
   "liquidCapacity": 120,
   "category": "liquid",
