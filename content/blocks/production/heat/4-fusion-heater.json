@@ -20,24 +20,6 @@
       {
         "type": "DrawPulseShape",
         "square": true,
-        "radiusScl": 2.4,
-        "color": "ecbad7"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 2.2,
-        "color": "ffe1f2"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 1.2,
-        "color": "ecbad7"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
         "radiusScl": 1,
         "color": "ffe1f2"
       },
