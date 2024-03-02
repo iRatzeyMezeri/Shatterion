@@ -5,6 +5,9 @@
   "size": 2,
   "tier": 2,
   "drillTime": 380,
+  "consumes": {
+    "power": 3,
+  },
   "requirements": [
     "rhodium/34",
     "palladium/18",
