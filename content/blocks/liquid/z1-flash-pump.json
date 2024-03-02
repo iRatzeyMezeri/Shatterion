@@ -6,7 +6,7 @@
   "pumpAmount": 0.6,
   "OutputsLiquid": true,
   "consumes": {
-    "power": 3,
+    "power": 8.5,
     "liquids": [
       "s-hydrogen/0.2"
     ]
