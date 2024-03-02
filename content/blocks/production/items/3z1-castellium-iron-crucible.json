@@ -22,6 +22,10 @@
             },
             {
                 "type": "DrawPlasma"
+            },
+            {
+                "type": "DrawRegion",
+                "suffix": "-top",
             }
         ],
     },
