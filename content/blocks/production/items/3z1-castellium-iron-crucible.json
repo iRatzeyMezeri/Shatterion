@@ -24,7 +24,8 @@
                 "type": "DrawCrucibleFlame",
                 "flameColor": "87ddc6",
                 "midColor": "87ddc6",
-                "flameRad": 15
+                "flameRad": 6,
+                "particleRad": 7,
             },
             {
                 "type": "DrawRegion",
