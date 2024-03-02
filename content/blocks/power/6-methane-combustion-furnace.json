@@ -1,0 +1,37 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Methane Combustion Furnace",
+  "description": "Combusts Methane to get power",
+  "health": 720,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerProduction": 14,
+  "heatRequirement": 8,
+  "LiquidCapacity": 80,
+  "updateEffect": "pulverise",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame",
+      }
+    ]
+  },
+  "consumes": {
+    "liquids": [
+      "methane/0.2"
+    ],
+  },
+  "requirements": [
+    "ozonate/140",
+    "blast-alloy/140",
+    "castellium-iron/120",
+    "palladium/60"
+  ],
+  "category": "power",
+  "research": "5-ionic-generator"
+}
