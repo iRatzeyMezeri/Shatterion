@@ -4,6 +4,7 @@
   "type": "Drill",
   "size": 2,
   "tier": 2,
+  "hasPower": true,
   "drillTime": 380,
   "consumes": {
     "power": 3,
