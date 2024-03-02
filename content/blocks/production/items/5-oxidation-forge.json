@@ -21,17 +21,22 @@
             {
                 "type": "DrawDefault",
             },
-            // {
-                // "type": "DrawShape",
-                // "radius": 7.5,
-                // "sides": 6,
-                // "color": "c755a0"
-                // "layer": 101,
-            // },
+            {
+                "type": "DrawShape",
+                "radius": 7.5,
+                "sides": 6,
+                "color": "c755a0"
+                "layer": 200,
+            },
+            {
+                "type": "DrawGlowRegion",
+                "color": "ecbad7",
+                "layer": 300
+            },
             {
                 "type": "DrawRegion",
                 "suffix": "-top",
-                "layer": 103
+                "layer": 400
             }
         ]
     },
