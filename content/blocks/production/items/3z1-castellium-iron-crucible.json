@@ -3,7 +3,7 @@
     "description": "Combines Scarrium, Silicon and Water into Castellium Iron",
     "type": "HeatProducer",
     "health": 540,
-    "outputItem": {"item": "castellium-iron", "amount": 1},
+    "outputItem": {"item": "castellium-iron", "amount": 2},
     "consumes": {
         "power": 3,
         "items": [
@@ -21,11 +21,13 @@
                 "type": "DrawDefault"
             },
             {
-                "type": "DrawPlasma"
+                "type": "DrawCrucibleFlame",
+                "flameColor": "87ddc6",
+                "midColor": "87ddc6",
             },
             {
                 "type": "DrawRegion",
-                "suffix": "-top",
+                "suffix": "-totop",
             }
         ],
     },
