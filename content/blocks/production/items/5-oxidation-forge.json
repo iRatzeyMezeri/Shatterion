@@ -22,10 +22,6 @@
                 "type": "DrawDefault",
             },
             {
-                "type": "DrawGlowRegion"
-                "layer": 102,
-            },
-            {
                 "type": "DrawShape",
                 "radius": 7,
                 "sides": 6,
