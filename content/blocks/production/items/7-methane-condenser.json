@@ -1,0 +1,48 @@
+{
+    "name": "Methane Condenser",
+    "description": "Compounds hydrogen and coal into methane",
+    "type": "GenericCrafter",
+    "health": 540,
+    "outputLiquids": [
+      "methane/0.2"
+    ],
+    "consumes": {
+        "power": 8,
+        "liquids": [
+          "s-hydrogen/0.1"
+        ]
+        "items": [
+          "s-coal/2"
+        ]
+    },
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawDefault",
+            },
+            {
+                "type": "DrawPulseShape",
+                "sides": 12,
+                "color": "9ee393",
+                "radiusScl": 2,
+            }
+        ]
+    },
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 20,
+    "liquidCapacity": 80,
+    "craftTime": 60,
+    "updateEffect": "smeltsmoke",
+    "category": "crafting",
+    "research": "4-electrolysis-chamber",
+    "requirements": [
+      "ozonate/120",
+      "blast-alloy/120",
+      "rhodium/120",
+      "s-metaglass/120"
+    ],
+}
