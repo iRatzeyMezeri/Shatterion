@@ -23,11 +23,9 @@
             },
             {
                 "type": "DrawGlowRegion"
-                "layer": 104
             },
             {
                 "type": "DrawShape",
-                "layer": 102,
                 "radius": 7,
                 "sides": 6,
                 "color": "c755a0"
