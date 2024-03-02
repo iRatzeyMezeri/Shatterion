@@ -23,7 +23,7 @@
             },
             {
                 "type": "DrawShape",
-                "radius": 7,
+                "radius": 7.5,
                 "sides": 6,
                 "color": "c755a0"
                 "layer": 101,
