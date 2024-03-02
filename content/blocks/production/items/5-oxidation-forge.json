@@ -21,13 +21,13 @@
             {
                 "type": "DrawDefault",
             },
-            {
-                "type": "DrawShape",
-                "radius": 7.5,
-                "sides": 6,
-                "color": "c755a0"
-                "layer": 101,
-            },
+            // {
+                // "type": "DrawShape",
+                // "radius": 7.5,
+                // "sides": 6,
+                // "color": "c755a0"
+                // "layer": 101,
+            // },
             {
                 "type": "DrawRegion",
                 "suffix": "-top",
