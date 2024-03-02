@@ -41,6 +41,7 @@
     "requirements": [
       "s-silicon/160",
       "ozonate/100",
+      "palladium/100",
       "blast-alloy/80",
       "s-metaglass/80"
     ],
