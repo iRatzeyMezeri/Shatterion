@@ -22,8 +22,11 @@
                 "type": "DrawDefault",
             },
             {
+                "type": "DrawRegion",
+                "suffix": "-top"
+            },
+            {
                 "type": "DrawPulseShape",
-                "sides": 12,
                 "color": "9ee393",
                 "radiusScl": 2,
             }
