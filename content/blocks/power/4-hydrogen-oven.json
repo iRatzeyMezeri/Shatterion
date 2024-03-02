@@ -18,37 +18,13 @@
       {
         "type": "DrawPulseShape",
         "square": true,
-        "radiusScl": 4,
-        "color": "89cac8"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 3.8,
+        "radiusScl": 1.1,
         "color": "bee8e7"
       },
       {
         "type": "DrawPulseShape",
         "square": true,
-        "radiusScl": 3.6,
-        "color": "def2f1"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 1.6,
-        "color": "89cac8"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 1.4,
-        "color": "bee8e7"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": true,
-        "radiusScl": 1.2,
+        "radiusScl": 0.8,
         "color": "def2f1"
       },
       {
