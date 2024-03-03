@@ -1,7 +1,6 @@
 {
   "name": "Wavelength",
-  "description": "A little flying core unit",
-  "type": "flying",
+  "description": "A little flying core unit"
   "outlineColor": "00000000",
   "flying": true,
   "speed": 1,
