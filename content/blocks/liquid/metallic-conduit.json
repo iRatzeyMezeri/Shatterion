@@ -7,7 +7,7 @@
   "leaks": true,
   "junctionReplacement": "metallic-conduit-junction",
   "bridgeReplacement": "metallic-conduit-bridge",
-  "research": "core-particle",
+  "research": "metallic-conveyor",
   "category": "liquid",
   "requirements": [
     "s-metaglass/2"
