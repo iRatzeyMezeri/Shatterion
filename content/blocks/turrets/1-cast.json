@@ -7,6 +7,14 @@
     "type": "DrawTurret",
     "basePrefix": "metallic-"
   },
+  "consumes": {
+    "coolant": {
+      "liquid": "s-water",
+      "booster": 1.5,
+      "amount": 0.2,
+      "coolantMultiplier": 1,
+    },
+  },
   "size": 3,
   "researchCostMultiplier": 0.05,
   "health": 440,
