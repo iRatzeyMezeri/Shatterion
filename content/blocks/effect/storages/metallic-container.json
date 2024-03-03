@@ -4,6 +4,8 @@
   "type": "StorageBlock",
   "health": 320,
   "size": 2,
+  "hasItems": true,
+  "itemCapacity": 100,
   "requirements": [
     "s-silicon/32",
     "rhodium/32"
