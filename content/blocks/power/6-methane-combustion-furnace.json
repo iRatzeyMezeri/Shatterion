@@ -1,11 +1,13 @@
 {
-  "type": "VariableReactor",
+  "type": "HeatCrafter",
   "name": "Methane Combustion Furnace",
-  "description": "Combusts Methane to get power",
+  "description": "Combusts Methane to get power. Requires Heat",
   "health": 720,
-  "maxHeat": 8,
+  "heatRequirement": 8,
+  "maxEfficiency": 1,
   "size": 3,
   "hasPower": true,
+  "outputsPower": true,
   "hasLiquids": true,
   "powerProduction": 14,
   "LiquidCapacity": 80,
@@ -18,10 +20,14 @@
       },
       {
         "type": "DrawFlame",
-      }
+      },
+      {
+        "type": "DrawHeatInput"
+      },
     ]
   },
   "consumes": {
+    "power": -2,
     "liquids": [
       "methane/0.2"
     ],
