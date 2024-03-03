@@ -1,8 +1,9 @@
 {
-  "type": "ConsumeGenerator",
+  "type": "VariableReactor",
   "name": "Methane Combustion Furnace",
   "description": "Combusts Methane to get power",
   "health": 720,
+  "maxHeat": 8,
   "size": 3,
   "hasPower": true,
   "hasLiquids": true,
