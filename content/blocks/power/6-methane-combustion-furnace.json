@@ -7,7 +7,6 @@
   "hasPower": true,
   "hasLiquids": true,
   "powerProduction": 14,
-  "heatRequirement": 8,
   "LiquidCapacity": 80,
   "updateEffect": "pulverise",
   "drawer": {
