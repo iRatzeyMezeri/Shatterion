@@ -14,10 +14,17 @@
   "range": 220,
   "inaccuracy": 0,
   "recoil": 5,
-  "rotateSpeed": 4,
+  "targetAir": false,
+  "rotateSpeed": 2,
   "shootSound": "laser",
   "consumes": {
     "power": 3
+    "coolant": {
+      "liquid": "s-water",
+      "booster": 1.5,
+      "amount": 0.2,
+      "coolantMultiplier": 1,
+    },
   },
   "shootType": {
     "type": "shrapnelBulletType",
