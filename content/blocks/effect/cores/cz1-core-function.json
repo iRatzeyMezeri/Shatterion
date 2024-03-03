@@ -1,0 +1,19 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Function",
+  "description": "A larger and heavier core",
+  "health": 4800,
+  "size": 4,
+  "itemCapacity": 5000,
+  "unitCapModifier": 24,
+  "unitType": "a2-frequency",
+  "category": "effect",
+  "requirements": [
+    "rhodium/3000",
+    "s-silicon/2400",
+    "castellium-iron/1600",
+    "blast-alloy/1600",
+    "ozonate/800",
+  ],
+  "research": "core-particle"
+}
