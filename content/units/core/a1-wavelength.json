@@ -1,9 +1,9 @@
 {
   "name": "Wavelength",
-  "description": "A little spider core unit",
-  "type": "legs",
+  "description": "A little flying core unit",
+  "type": "flying",
   "outlineColor": "00000000",
-  "flying": false,
+  "flying": true,
   "speed": 1,
   "hitSize": 8,
   "health": 260,
@@ -13,7 +13,7 @@
   "itemCapacity": 50,
   "weapons": [
     {
-      "name": "wavelength-weapon",
+      "name": "wavelength-weapn",
       "top": true,
       "shootY": 3,
       "shootX": -2.5,
