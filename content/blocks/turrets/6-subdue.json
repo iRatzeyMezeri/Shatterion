@@ -8,6 +8,9 @@
     "basePrefix": "metallic-"
   },
   "size": 2,
+  "homingPower": 5,
+  "homingRange": 80,
+  "targetGround": false,
   "ammoPerShot": 6
   "health": 460,
   "reload": 50,
