@@ -3,7 +3,7 @@
   "description": "A stronger flying core unit"
   "outlineColor": "00000000",
   "flying": true,
-  "speed": 1.2,
+  "speed": 2.6,
   "hitSize": 12,
   "health": 480,
   "mineSpeed": 3,
