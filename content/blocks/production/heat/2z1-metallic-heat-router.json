@@ -1,6 +1,6 @@
 {
-  "name": "Metallic Heat Redirector",
-  "description": "A larger version of the rhodium metal wall",
+  "name": "Metallic Heat Router",
+  "description": "Evenly distributes heat in 3 directions",
   "type": "HeatConductor",
   "splitHeat": true,
   "health": 380,
