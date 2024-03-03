@@ -8,6 +8,7 @@
     "basePrefix": "metallic-"
   },
   "liquidConsumed": 0.1,
+  "targetGround": false,
   "size": 2,
   "shootY": 2,
   "health": 460,
