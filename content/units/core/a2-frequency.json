@@ -1,0 +1,40 @@
+{
+  "name": "Wavelength",
+  "description": "A little flying core unit"
+  "outlineColor": "00000000",
+  "flying": true,
+  "speed": 1,
+  "hitSize": 8,
+  "health": 260,
+  "mineSpeed": 2,
+  "buildSpeed": 0.8,
+  "mineTier": 1,
+  "itemCapacity": 50,
+  "weapons": [
+    {
+      "name": "frequency-weapn",
+      "top": true,
+      "shootY": 3,
+      "shootX": -2.5,
+      "reload": 40,
+      "inaccuracy": 12,
+      "mirror": true,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "shrapnelBulletType",
+        "lifetime": 20,
+        "damage": 140,
+        "serrations": 12,
+        "fromColor": "d39167",
+        "toColor": "fbf2ec",
+        "length": 160,
+        "width": 6,
+        "hitEffect": "blastExplosion",
+        "shootEffect": "blastExplosion",
+        "pierce": true,
+        "healAmount": 10,
+        "healColor": "d39167"
+      }
+    }
+  ]
+}
