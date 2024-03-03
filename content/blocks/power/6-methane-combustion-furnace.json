@@ -11,7 +11,6 @@
   "hasLiquids": true,
   "powerProduction": 14,
   "LiquidCapacity": 80,
-  "updateEffect": "pulverise",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
