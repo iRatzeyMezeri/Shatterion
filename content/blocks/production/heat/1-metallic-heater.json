@@ -17,7 +17,7 @@
     ]
   },
   "researchCostMultiplier": 0.05,
-  "research": "core-particle",
+  "research": "1-silicon-heat-furnace",
   "category": "crafting",
   "craftTime": "60",
 }
