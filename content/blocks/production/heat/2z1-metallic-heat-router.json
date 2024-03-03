@@ -21,6 +21,7 @@
   },
   "researchCostMultiplier": 0.2,
   "regionRotated1": 1,
+  "regionRotated2": 2,
   "requirements": [
     "rhodium/44",
     "palladium/44",
