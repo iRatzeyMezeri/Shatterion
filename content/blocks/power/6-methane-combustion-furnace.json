@@ -1,7 +1,7 @@
 {
   "type": "HeatCrafter",
   "name": "Methane Combustion Furnace",
-  "description": "Combusts Methane to get power. Requires Heat",
+  "description": "Combusts Methane to get power. Requires Heat. [gray] Creator's note: I havent found a better way to make a non explosive heat generator, so this bllook looks like it doesnt work, but trust me it does, it did go through testing",
   "health": 720,
   "heatRequirement": 8,
   "maxEfficiency": 1,
@@ -26,7 +26,7 @@
     ]
   },
   "consumes": {
-    "power": -2,
+    "power": -14,
     "liquids": [
       "methane/0.2"
     ],
