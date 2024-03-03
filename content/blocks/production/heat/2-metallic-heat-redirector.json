@@ -1,6 +1,6 @@
 {
   "name": "Metallic Heat Redirector",
-  "description": "A larger version of the rhodium metal wall",
+  "description": "Distributes Heat Forwards",
   "type": "HeatConductor",
   "health": 320,
   "size": 3,
