@@ -1,0 +1,13 @@
+{
+  "name": "Metallic Container",
+  "description": "A simple item container. Can connect to cores",
+  "type": "StorageBlock",
+  "health": 320,
+  "size": 2,
+  "requirements": [
+    "s-silicon/32",
+    "rhodium/32"
+  ],
+  "category": "effect",
+  "research": "core-particle"
+}
