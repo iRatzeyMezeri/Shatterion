@@ -6,7 +6,7 @@
   "hasLiquids": true,
   "liquidCapacity": 40,
   "consumes": {
-    "power": 4,
+    "power": 8,
     "liquids": [
       "s-hydrogen/0.2"
     ]
