@@ -33,7 +33,7 @@
       "amount": 0.4
     }
   },
-  "range": 10,
+  "range": 20,
   "requirements": [
     "s-silicon/48",
     "s-metaglass/48",
