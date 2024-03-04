@@ -6,7 +6,7 @@
   "size": 3,
   "hasPower": true,
   "hasLiquids": true,
-  "powerProduction": 9,
+  "powerProduction": 13,
   "LiquidCapacity": 80,
   "updateEffect": "pulverise",
   "drawer": {
