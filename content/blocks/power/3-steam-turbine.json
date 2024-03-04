@@ -23,7 +23,7 @@
   "consumes": {
     "liquid": {
       "liquid": "s-water",
-      "amount": 0.2
+      "amount": 0.4
     }
   },
   "requirements": [
