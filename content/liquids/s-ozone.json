@@ -8,6 +8,14 @@
     "heatCapacity": 0.5,
     "temperature": 0.5,
     "color": "c755a0",
-    "research": "s-water",
+    "research": {
+        "parent": "s-water",
+        "objectives": [
+            {
+                "type": "content",
+                "content": "s-ozone"
+            }
+        ]
+    },
     "description": "Ozone in its pure form"
 }
