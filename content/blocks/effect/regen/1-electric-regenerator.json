@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
-  "healPercent": 0.005,
+  "healPercent": 0.02,
   "LiquidCapacity": 60,
   "drawer": {
     "type": "DrawMulti",
@@ -39,6 +39,6 @@
     "s-metaglass/48",
     "palladium/24"
   ],
-  "category": "power",
+  "category": "effect",
   "research": "1-metallic-lighthouse"
 }
