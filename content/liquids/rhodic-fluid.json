@@ -6,6 +6,14 @@
     "explosiveness": 0,
     "heatCapacity": 0,
     "color": "363241",
-    "research": "s-water",
+    "research": {
+        "parent": "s-water",
+        "objectives": [
+            {
+                "type": "content",
+                "content": "rhodic-fluid"
+            }
+        ]
+    },
     "description": "Extremely polluted water, Can be ionised"
 }
