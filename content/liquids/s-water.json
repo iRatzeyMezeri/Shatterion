@@ -7,6 +7,14 @@
     "heatCapacity": 0.5,
     "effect": "wet",
     "color": "223258",
-    "research": "s-coal",
+    "research": {
+        "parent": "s-coal",
+        "objectives": [
+            {
+                "type": "content",
+                "content": "s-water"
+            }
+        ]
+    },
     "description": "Simple water, heavily polluted"
 }
