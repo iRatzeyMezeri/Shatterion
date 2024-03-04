@@ -1,0 +1,14 @@
+{
+  "name": "Large Blast Wall",
+  "absorbLasers": true,
+  "description": "A large defensive wall made of Blast Alloy and Ozonate. Absorbs lasers",
+  "type": "Wall",
+  "health": 3520,
+  "size": 2,
+  "requirements": [
+    "blast-alloy/24",
+    "ozonate/24"
+  ],
+  "category": "defense",
+  "research": "5-blast-wall"
+}
