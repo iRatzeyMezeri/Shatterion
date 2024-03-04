@@ -8,6 +8,14 @@
     "heatCapacity": 0.5,
     "temperature": 0.5,
     "color": "62a7a4",
-    "research": "s-water",
+    "research": {
+        "parent": "s-water",
+        "objectives": [
+            {
+                "type": "content",
+                "content": "s-hydrogen"
+            }
+        ]
+    },
     "description": "Hydrogen in its pure form"
 }
