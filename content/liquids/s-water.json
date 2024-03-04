@@ -1,10 +1,10 @@
 {
     "type": "liquid",
     "name": "Water",
-    "temperature": 0,
-    "viscosity": 0,
+    "temperature": 0.5,
+    "viscosity": 0.5,
     "explosiveness": 0,
-    "heatCapacity": 0,
+    "heatCapacity": 0.5,
     "effect": "wet",
     "color": "223258",
     "research": "s-coal",
