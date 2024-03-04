@@ -1,1 +1,44 @@
-.
+{
+  "type": "RegenProjector",
+  "name": "Electric Regenerator",
+  "description": "Uses power and Water to heal nearby buildings",
+  "health": 320,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "healPercent": 0.005,
+  "LiquidCapacity": 60,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawPulseShape",
+        "square": true,
+        "radiusScl": 10,
+        "color": "9ee393"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "color": "9ee393",
+      }
+    ]
+  },
+  "consumes": {
+    "power": 4,
+    "liquid": {
+      "liquid": "s-water",
+      "amount": 0.4
+    }
+  },
+  "range": 10,
+  "requirements": [
+    "s-silicon/48",
+    "s-metaglass/48",
+    "palladium/24"
+  ],
+  "category": "power",
+  "research": "1-metallic-lighthouse"
+}
