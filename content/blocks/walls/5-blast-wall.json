@@ -1,11 +1,12 @@
 {
-  "name": "Ozonic Wall",
+  "name": "Blast Wall",
   "absorbLasers": true,
-  "description": "A defensive wall made of Ozonate. Absorbs lasers",
+  "description": "A defensive wall made of Blast Alloy and Ozonate. Absorbs lasers",
   "type": "Wall",
   "health": 880,
   "size": 1,
   "requirements": [
+    "blast-alloy/6",
     "ozonate/6"
   ],
   "category": "defense",
