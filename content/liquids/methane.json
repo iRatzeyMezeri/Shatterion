@@ -8,6 +8,14 @@
     "heatCapacity": 0.5,
     "temperature": 0.5,
     "color": "87a383",
-    "research": "s-hydrogen",
+    "research": {
+        "parent": "s-hydrogen",
+        "objectives": [
+            {
+                "type": "content",
+                "content": "methane"
+            }
+        ]
+    },
     "description": "Methane in its pure form"
 }
