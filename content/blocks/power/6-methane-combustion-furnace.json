@@ -1,7 +1,7 @@
 {
   "type": "HeatCrafter",
   "name": "Methane Combustion Furnace",
-  "description": "Combusts Methane to get power. Requires Heat. [gray] Creator's note: I havent found a better way to make a non explosive heat generator, so this bllook looks like it doesnt work, but trust me it does, though it has to be constantly maintained. [green] Guide from Green: the methane factories and the electrolyser connected to them have to be in a separate power grid",
+  "description": "Combusts Methane to get power. Requires Heat. [gray] Creator's note: I havent found a better way to make a non explosive heat generator, so this bllook looks like it doesnt work, but trust me it does, though it has to be constantly maintained. [green] Guide from Green: make a separate power grid [white] only [green] for the generators and then use electric diodes to connect it to everything else",
   "health": 720,
   "heatRequirement": 8,
   "maxEfficiency": 1,
